@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мониторинг закупок ИТС</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Unbounded:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0e1a;
+    --surface: #111827;
+    --surface2: #1a2235;
+    --border: #1e2d42;
+    --accent: #00d4ff;
+    --accent2: #ff4d6d;
+    --text: #e2e8f0;
+    --text2: #64748b;
+    --green: #22d3a5;
+    --yellow: #fbbf24;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* Фоновая сетка */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,212,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,212,255,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  header {
+    position: relative;
+    z-index: 10;
+    background: linear-gradient(180deg, #0d1526 0%, transparent 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+  }
+
+  .logo-text {
+    font-family: 'Unbounded', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.2;
+  }
+
+  .logo-sub {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    color: var(--text2);
+    font-weight: 400;
+    letter-spacing: 0.5px;
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .last-update {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text2);
+  }
+
+  .btn-refresh {
+    background: linear-gradient(135deg, var(--accent), #0099cc);
+    color: #0a0e1a;
+    border: none;
+    padding: 9px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 0.3px;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .btn-refresh:hover { transform: translateY(-1px); box-shadow: 0 4px 20px rgba(0,212,255,0.4); }
+  .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 28px 24px;
+  }
+
+  /* Stats */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 22px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), transparent);
+  }
+
+  .stat-label {
+    font-size: 11px;
+    color: var(--text2);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+
+  .stat-value {
+    font-family: 'Unbounded', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  /* Status */
+  .status-bar {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    color: var(--text2);
+    transition: border-color 0.3s;
+  }
+
+  .status-bar.running { border-color: var(--yellow); }
+  .status-bar.done { border-color: var(--green); }
+  .status-bar.error { border-color: var(--accent2); }
+
+  .status-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--green);
+    flex-shrink: 0;
+  }
+  .status-bar.running .status-dot {
+    background: var(--yellow);
+    animation: pulse 1s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.7); }
+  }
+
+  /* Filters */
+  .filters {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+  }
+
+  .search-wrap {
+    flex: 1;
+    min-width: 260px;
+    position: relative;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text2);
+    font-size: 15px;
+    pointer-events: none;
+  }
+
+  .filters input, .filters select {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: 10px 14px 10px 38px;
+    font-size: 13px;
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .filters select { padding-left: 14px; width: auto; min-width: 220px; }
+
+  .filters input:focus, .filters select:focus { border-color: var(--accent); }
+  .filters input::placeholder { color: var(--text2); }
+  .filters select option { background: var(--surface2); }
+
+  /* Table */
+  .table-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  thead tr {
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
+
+  thead th {
+    padding: 13px 16px;
+    text-align: left;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: var(--text2);
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(30,45,66,0.6);
+    transition: background 0.15s;
+    animation: fadeIn 0.3s ease both;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  tbody tr:hover { background: rgba(0,212,255,0.04); }
+  tbody tr.is-new { background: rgba(0,212,255,0.06); }
+  tbody tr:last-child { border-bottom: none; }
+
+  td {
+    padding: 13px 16px;
+    font-size: 13px;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+
+  .td-number {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--accent);
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  .badge-new {
+    display: inline-block;
+    background: var(--accent2);
+    color: white;
+    font-size: 9px;
+    padding: 1px 5px;
+    border-radius: 4px;
+    margin-left: 6px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+  }
+
+  .td-name { max-width: 360px; color: var(--text); }
+  .td-customer { max-width: 220px; color: var(--text2); font-size: 12px; }
+  .td-date { white-space: nowrap; color: var(--text2); font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+
+  .kw-badge {
+    display: inline-block;
+    background: rgba(0,212,255,0.1);
+    color: var(--accent);
+    border: 1px solid rgba(0,212,255,0.2);
+    padding: 3px 9px;
+    border-radius: 20px;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+
+  .btn-open {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: transparent;
+    color: var(--accent);
+    border: 1px solid rgba(0,212,255,0.3);
+    padding: 5px 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+    transition: all 0.2s;
+    font-family: 'Inter', sans-serif;
+  }
+  .btn-open:hover {
+    background: rgba(0,212,255,0.1);
+    border-color: var(--accent);
+  }
+
+  .empty {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--text2);
+  }
+  .empty-icon { font-size: 48px; margin-bottom: 16px; }
+  .empty h3 { font-size: 16px; color: var(--text); margin-bottom: 8px; font-family: 'Unbounded', sans-serif; }
+  .empty p { font-size: 13px; }
+
+  /* Progress bar */
+  .progress-wrap {
+    height: 2px;
+    background: var(--border);
+    border-radius: 2px;
+    margin-bottom: 18px;
+    overflow: hidden;
+    display: none;
+  }
+  .progress-wrap.active { display: block; }
+  .progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    width: 0%;
+    transition: width 0.5s ease;
+    border-radius: 2px;
+  }
+
+  /* Proxy warning */
+  .proxy-notice {
+    background: rgba(251,191,36,0.08);
+    border: 1px solid rgba(251,191,36,0.2);
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 12px;
+    color: var(--yellow);
+    margin-bottom: 18px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">🚦</div>
+    <div>
+      <div class="logo-text">МОНИТОРИНГ ЗАКУПОК</div>
+      <div class="logo-sub">Интеллектуальные транспортные системы · zakupki.gov.ru</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <span class="last-update" id="last-update">не обновлялось</span>
+    <button class="btn-refresh" id="btn-refresh" onclick="startSearch()">
+      <span id="btn-icon">⟳</span> Обновить
+    </button>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-label">Всего найдено</div>
+      <div class="stat-value" id="stat-total">0</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Показано</div>
+      <div class="stat-value" id="stat-shown">0</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Ключевых слов</div>
+      <div class="stat-value" id="stat-kw">11</div>
+    </div>
+  </div>
+
+  <div class="proxy-notice">
+    ⚠️ <span>Данные загружаются через CORS-прокси. Автоматически пробуем 3 разных сервиса (corsproxy.io → codetabs → allorigins). Если все недоступны — попробуйте открыть файл позже.</span>
+  </div>
+
+  <div class="status-bar done" id="status-bar">
+    <div class="status-dot"></div>
+    <span id="status-text">Нажмите «Обновить» для загрузки данных</span>
+  </div>
+
+  <div class="progress-wrap" id="progress-wrap">
+    <div class="progress-bar" id="progress-bar"></div>
+  </div>
+
+  <div class="filters">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-input" placeholder="Поиск по названию, заказчику, номеру..." oninput="renderTable()">
+    </div>
+    <select id="kw-filter" onchange="renderTable()">
+      <option value="">Все ключевые слова</option>
+    </select>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Номер</th>
+          <th>Наименование</th>
+          <th>Заказчик</th>
+          <th>Дата</th>
+          <th>Ключевое слово</th>
+          <th>Ссылка</th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <tr>
+          <td colspan="6">
+            <div class="empty">
+              <div class="empty-icon">📡</div>
+              <h3>Данные не загружены</h3>
+              <p>Нажмите кнопку «Обновить» чтобы найти закупки</p>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<script>
+const KEYWORDS = [
+  "мониторинг ДТП и ЧС",
+  "интеллектуальные транспортные системы",
+  "ИТС светофор",
+  "автоматизация управления дорожным движением",
+  "адаптивное управление светофорами",
+  "видеоаналитика транспортных потоков",
+  "управление дорожным движением",
+  "детектирование транспортных средств",
+  "светофорное регулирование",
+  "посты мониторинга ДТП",
+  "умный перекресток",
+];
+
+const BASE_URL = "https://zakupki.gov.ru/epz/pricereq/search/results.html";
+// Несколько прокси — пробуем по очереди
+const PROXIES = [
+  url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  url => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+];
+const STORAGE_KEY = "its_zakupki_data";
+
+let allData = [];
+let newIds = new Set();
+
+// Заполняем фильтр ключевых слов
+const kwSelect = document.getElementById('kw-filter');
+KEYWORDS.forEach(kw => {
+  const opt = document.createElement('option');
+  opt.value = kw; opt.textContent = kw;
+  kwSelect.appendChild(opt);
+});
+
+function loadFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) {
+      allData = JSON.parse(raw);
+      document.getElementById('stat-total').textContent = allData.length;
+      renderTable();
+      const ts = localStorage.getItem(STORAGE_KEY + '_ts');
+      if (ts) document.getElementById('last-update').textContent = ts;
+    }
+  } catch(e) {}
+}
+
+function saveToStorage() {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(allData));
+    const ts = new Date().toLocaleString('ru-RU', {day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    localStorage.setItem(STORAGE_KEY + '_ts', ts);
+    document.getElementById('last-update').textContent = ts;
+  } catch(e) {}
+}
+
+function setStatus(text, state='done') {
+  const bar = document.getElementById('status-bar');
+  bar.className = 'status-bar ' + state;
+  document.getElementById('status-text').textContent = text;
+}
+
+function buildUrl(keyword, page=1) {
+  const params = new URLSearchParams({
+    searchString: keyword,
+    morphology: 'on',
+    'search-filter': 'Дате размещения',
+    published: 'on',
+    proposed: 'on',
+    ended: 'on',
+    sortBy: 'UPDATE_DATE',
+    pageNumber: page,
+    sortDirection: 'false',
+    recordsPerPage: '_25',
+    showLotsInfoHidden: 'false',
+  });
+  return BASE_URL + '?' + params.toString();
+}
+
+function parseHTML(html, keyword) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+  const items = [];
+  const cards = doc.querySelectorAll('div.search-registry-entry-block');
+
+  cards.forEach(card => {
+    try {
+      const linkTag = card.querySelector('a.registry-entry__header-mid__number');
+      if (!linkTag) return;
+      const number = linkTag.textContent.trim();
+      const href = linkTag.getAttribute('href') || '';
+      const url = href.startsWith('/') ? 'https://zakupki.gov.ru' + href : href;
+
+      const bodyVals = card.querySelectorAll('div.registry-entry__body-value');
+      const name = bodyVals[0]?.textContent.trim() || '—';
+      const customer = bodyVals[1]?.textContent.trim() || '—';
+
+      const dateTag = card.querySelector('div.data-block__value');
+      const date = dateTag?.textContent.trim() || '—';
+
+      items.push({ id: number, number, name, customer, date, url, keyword });
+    } catch(e) {}
+  });
+  return items;
+}
+
+async function fetchKeyword(keyword, idx) {
+  const targetUrl = buildUrl(keyword);
+
+  for (let i = 0; i < PROXIES.length; i++) {
+    try {
+      const proxyUrl = PROXIES[i](targetUrl);
+      const resp = await fetch(proxyUrl);
+      if (!resp.ok) continue;
+      const text = await resp.text();
+
+      // allorigins возвращает JSON с полем contents
+      // corsproxy.io и codetabs возвращают HTML напрямую
+      let html = text;
+      try {
+        const json = JSON.parse(text);
+        if (json.contents) html = json.contents;
+      } catch(e) {}
+
+      const items = parseHTML(html, keyword);
+      if (items.length >= 0) return items; // даже 0 результатов — это ок
+    } catch(e) {
+      console.warn('Прокси', i, 'не сработал для', keyword, e.message);
+    }
+  }
+  console.warn('Все прокси недоступны для:', keyword);
+  return [];
+}
+
+async function startSearch() {
+  const btn = document.getElementById('btn-refresh');
+  const progressWrap = document.getElementById('progress-wrap');
+  const progressBar = document.getElementById('progress-bar');
+
+  btn.disabled = true;
+  document.getElementById('btn-icon').textContent = '⟳';
+  progressWrap.classList.add('active');
+  newIds.clear();
+
+  const existingIds = new Set(allData.map(d => d.id));
+  const freshItems = [];
+
+  for (let i = 0; i < KEYWORDS.length; i++) {
+    const kw = KEYWORDS[i];
+    setStatus(`Поиск: «${kw}» (${i+1}/${KEYWORDS.length})`, 'running');
+    progressBar.style.width = ((i / KEYWORDS.length) * 100) + '%';
+
+    const items = await fetchKeyword(kw, i);
+    items.forEach(item => {
+      if (!existingIds.has(item.id)) {
+        existingIds.add(item.id);
+        freshItems.push(item);
+        newIds.add(item.id);
+      }
+    });
+
+    await new Promise(r => setTimeout(r, 800));
+  }
+
+  progressBar.style.width = '100%';
+
+  // Добавляем новые в начало
+  allData = [...freshItems, ...allData].slice(0, 500);
+  saveToStorage();
+
+  document.getElementById('stat-total').textContent = allData.length;
+  renderTable();
+
+  setStatus(`Готово. Новых позиций: ${freshItems.length}`, 'done');
+  btn.disabled = false;
+  document.getElementById('btn-icon').textContent = '⟳';
+
+  setTimeout(() => { progressWrap.classList.remove('active'); }, 1000);
+}
+
+function renderTable() {
+  const search = document.getElementById('search-input').value.toLowerCase();
+  const kw = document.getElementById('kw-filter').value;
+
+  let filtered = allData;
+  if (kw) filtered = filtered.filter(d => d.keyword === kw);
+  if (search) filtered = filtered.filter(d =>
+    d.name.toLowerCase().includes(search) ||
+    d.customer.toLowerCase().includes(search) ||
+    d.number.toLowerCase().includes(search)
+  );
+
+  document.getElementById('stat-shown').textContent = filtered.length;
+
+  const tbody = document.getElementById('table-body');
+  if (!filtered.length) {
+    tbody.innerHTML = `<tr><td colspan="6"><div class="empty">
+      <div class="empty-icon">🔍</div>
+      <h3>Ничего не найдено</h3>
+      <p>Измените фильтры или запустите обновление</p>
+    </div></td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = filtered.map((item, i) => `
+    <tr class="${newIds.has(item.id) ? 'is-new' : ''}" style="animation-delay:${Math.min(i*20,300)}ms">
+      <td class="td-number">${item.number}${newIds.has(item.id) ? '<span class="badge-new">NEW</span>' : ''}</td>
+      <td class="td-name">${item.name}</td>
+      <td class="td-customer">${item.customer}</td>
+      <td class="td-date">${item.date}</td>
+      <td><span class="kw-badge">${item.keyword}</span></td>
+      <td><a href="${item.url}" target="_blank" class="btn-open">Открыть ↗</a></td>
+    </tr>
+  `).join('');
+}
+
+// При загрузке — берём из localStorage
+loadFromStorage();
+</script>
+</body>
+</html>
