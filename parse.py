@@ -61,13 +61,19 @@ def search_keyword(keyword):
         "recordsPerPage": "_25",
         "showLotsInfoHidden": "false",
     }
-    try:
-        r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=20)
-        r.raise_for_status()
-        return r.text
-    except Exception as e:
-        print(f"  ⚠️  Ошибка запроса '{keyword}': {e}")
-        return None
+    for attempt in range(3):
+        try:
+            r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=10)
+            r.raise_for_status()
+            return r.text
+        except requests.exceptions.Timeout:
+            print(f"  ⏱  Таймаут попытка {attempt+1}/3 для '{keyword}'")
+            time.sleep(3)
+        except Exception as e:
+            print(f"  ⚠️  Ошибка запроса '{keyword}': {e}")
+            return None
+    print(f"  ✗ Пропускаем '{keyword}' — все попытки исчерпаны")
+    return None
 
 
 def parse_results(html, keyword):
