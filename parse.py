@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Парсер zakupki.gov.ru — запускается GitHub Actions, сохраняет data.json
+Парсер закупок ИТС через API ГосПлан (v2.gosplan.info)
+Бесплатно без регистрации до 01.07.2026
+Документация: https://wiki.gosplan.info
 """
 
 import requests
@@ -9,12 +11,13 @@ import os
 import time
 import hashlib
 from datetime import datetime
-from bs4 import BeautifulSoup
+
+DATA_FILE = "data.json"
 
 KEYWORDS = [
     "мониторинг ДТП и ЧС",
     "интеллектуальные транспортные системы",
-    "ИТС светофор",
+    "ИТС",
     "автоматизация управления дорожным движением",
     "адаптивное управление светофорами",
     "видеоаналитика транспортных потоков",
@@ -25,21 +28,15 @@ KEYWORDS = [
     "умный перекресток",
 ]
 
-BASE_URL = "https://zakupki.gov.ru/epz/pricereq/search/results.html"
-DATA_FILE = "data.json"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "ru-RU,ru;q=0.9",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-}
+API_BASE = "https://v2.gosplan.info"
+HEADERS = {"Accept": "application/json", "Content-Type": "application/json"}
 
 
 def load_existing():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {"items": [], "updated": None}
+    return {"items": [], "updated": None, "total": 0}
 
 
 def save_data(data):
@@ -47,103 +44,72 @@ def save_data(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def search_keyword(keyword):
-    params = {
-        "searchString": keyword,
-        "morphology": "on",
-        "search-filter": "Дате размещения",
-        "published": "on",
-        "proposed": "on",
-        "ended": "on",
-        "sortBy": "UPDATE_DATE",
-        "pageNumber": 1,
-        "sortDirection": "false",
-        "recordsPerPage": "_25",
-        "showLotsInfoHidden": "false",
+def search_purchases(keyword, offset=0, limit=25):
+    url = f"{API_BASE}/fz44/purchases/search"
+    payload = {
+        "text": keyword,
+        "offset": offset,
+        "limit": limit,
+        "sort": {"field": "publishDate", "order": "desc"}
     }
-    for attempt in range(3):
-        try:
-            r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=10)
-            r.raise_for_status()
-            return r.text
-        except requests.exceptions.Timeout:
-            print(f"  ⏱  Таймаут попытка {attempt+1}/3 для '{keyword}'")
-            time.sleep(3)
-        except Exception as e:
-            print(f"  ⚠️  Ошибка запроса '{keyword}': {e}")
-            return None
-    print(f"  ✗ Пропускаем '{keyword}' — все попытки исчерпаны")
-    return None
+    try:
+        r = requests.post(url, json=payload, headers=HEADERS, timeout=15)
+        r.raise_for_status()
+        return r.json()
+    except requests.exceptions.Timeout:
+        print(f"  Таймаут для '{keyword}'")
+        return None
+    except Exception as e:
+        print(f"  Ошибка '{keyword}': {e}")
+        return None
 
 
-def parse_results(html, keyword):
-    soup = BeautifulSoup(html, "html.parser")
-    items = []
-    cards = soup.select("div.search-registry-entry-block")
-
-    for card in cards:
-        try:
-            link_tag = card.select_one("a.registry-entry__header-mid__number")
-            if not link_tag:
-                continue
-            number = link_tag.get_text(strip=True)
-            href = link_tag.get("href", "")
-            url = f"https://zakupki.gov.ru{href}" if href.startswith("/") else href
-
-            body_vals = card.select("div.registry-entry__body-value")
-            name = body_vals[0].get_text(strip=True) if body_vals else "—"
-            customer = body_vals[1].get_text(strip=True) if len(body_vals) > 1 else "—"
-
-            date_tag = card.select_one("div.data-block__value")
-            date = date_tag.get_text(strip=True) if date_tag else "—"
-
-            uid = hashlib.md5(number.encode()).hexdigest()
-
-            items.append({
-                "uid": uid,
-                "number": number,
-                "name": name,
-                "customer": customer,
-                "date": date,
-                "url": url,
-                "keyword": keyword,
-            })
-        except Exception:
-            continue
-
-    return items
+def format_item(purchase, keyword):
+    try:
+        number = purchase.get("purchaseNumber") or purchase.get("number") or "—"
+        name = purchase.get("purchaseObjectInfo") or purchase.get("name") or "—"
+        customer = ""
+        if purchase.get("customer"):
+            customer = purchase["customer"].get("fullName") or purchase["customer"].get("shortName") or "—"
+        date = purchase.get("publishDate") or purchase.get("createDate") or "—"
+        if date and len(date) >= 10:
+            try:
+                dt = datetime.fromisoformat(date[:10])
+                date = dt.strftime("%d.%m.%Y")
+            except:
+                pass
+        url = f"https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber={number}"
+        uid = hashlib.md5(number.encode()).hexdigest()
+        return {"uid": uid, "number": number, "name": name[:200], "customer": customer[:150], "date": date, "url": url, "keyword": keyword}
+    except Exception as e:
+        return None
 
 
 def run():
-    print(f"🚀 Старт парсера: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"Старт: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     existing = load_existing()
     existing_uids = {item["uid"] for item in existing.get("items", [])}
     new_items = []
 
     for i, keyword in enumerate(KEYWORDS):
-        print(f"  [{i+1}/{len(KEYWORDS)}] «{keyword}»")
-        html = search_keyword(keyword)
-        if html:
-            items = parse_results(html, keyword)
-            print(f"    → найдено карточек: {len(items)}")
-            for item in items:
-                if item["uid"] not in existing_uids:
+        print(f"  [{i+1}/{len(KEYWORDS)}] {keyword}")
+        result = search_purchases(keyword)
+        if result:
+            purchases = result.get("data") or result.get("items") or result.get("results") or []
+            if isinstance(result, list):
+                purchases = result
+            print(f"    найдено: {len(purchases)}")
+            for purchase in purchases:
+                item = format_item(purchase, keyword)
+                if item and item["uid"] not in existing_uids:
                     existing_uids.add(item["uid"])
                     new_items.append(item)
-        time.sleep(2)
+        time.sleep(7)
 
     all_items = new_items + existing.get("items", [])
-    all_items = all_items[:1000]  # храним последние 1000
-
-    result = {
-        "items": all_items,
-        "updated": datetime.now().strftime("%d.%m.%Y %H:%M"),
-        "total": len(all_items),
-        "new_count": len(new_items),
-    }
-
-    save_data(result)
-    print(f"✅ Готово. Новых: {len(new_items)}, всего: {len(all_items)}")
+    all_items = all_items[:1000]
+    save_data({"items": all_items, "updated": datetime.now().strftime("%d.%m.%Y %H:%M"), "total": len(all_items), "new_count": len(new_items)})
+    print(f"Готово. Новых: {len(new_items)}, всего: {len(all_items)}")
 
 
 if __name__ == "__main__":
