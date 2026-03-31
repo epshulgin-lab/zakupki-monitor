@@ -1,6 +1,681 @@
 {
   "items": [
     {
+      "uid": "b4f9ae65df69aa29b8af6372742ad17e",
+      "number": "0373200082126000086",
+      "name": "Поставка погрузчика вилочного",
+      "customer": "7710350884",
+      "date": "30.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000086",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "36b70c79b4f46635c21bde033ce20105",
+      "number": "0373200082126000061",
+      "name": "Выполнение работ по изготовлению тентов",
+      "customer": "7710350884",
+      "date": "20.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000061",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "61506d35d9e864e2c2f468bb67e3a6e4",
+      "number": "0373200082126000085",
+      "name": "Поставка бесперебойных источников питания",
+      "customer": "7710350884",
+      "date": "30.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000085",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "642c75cd1c6e5b805770c8e35a6f7d79",
+      "number": "0373200082126000054",
+      "name": "Оказание услуг по обслуживанию и ремонту автомобильных электронных портативных весов марки ВА-20П",
+      "customer": "7710350884",
+      "date": "18.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000054",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "9b1d3bce1d6782dfafed3027bad8d950",
+      "number": "0173200001426000413",
+      "name": "Поставка табло отображения информации для информирования участников дорожного движения",
+      "customer": "7710350884",
+      "date": "23.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000413",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "bde3c136a7d7e6d27f362bacc11abe87",
+      "number": "0373200082126000046",
+      "name": "Выполнение работ по изготовлению и нанесению данных на транспортные средства",
+      "customer": "7710350884",
+      "date": "13.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000046",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "402ceb51ffaf94e699896cbcad36258a",
+      "number": "0373200082126000065",
+      "name": "Поставка бетонной смеси для нужд блока строительства светофорных объектов в течение 565 календарных дней",
+      "customer": "7710350884",
+      "date": "23.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000065",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "23951c524ab074f3475869d10608c924",
+      "number": "0373200082126000043",
+      "name": "Оказание услуг по изготовлению технических паспортов на причалы и сход-причалы",
+      "customer": "7710350884",
+      "date": "11.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000043",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "ee119abbd8df3a4f4f2c247dc189fdfe",
+      "number": "0373200082126000063",
+      "name": "Выполнение работ по обустройству велобоксов с подключением к сетям электроснабжения",
+      "customer": "7710350884",
+      "date": "23.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000063",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "083a1e63e9c7451979902adfd67625a2",
+      "number": "0373200082126000026",
+      "name": "Поставка крепежа и складных лестниц",
+      "customer": "7710350884",
+      "date": "27.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000026",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "fea78534040f7bfb2b647ca4cd875c3f",
+      "number": "0373200082126000029",
+      "name": "Поставка лакокрасочных изделий",
+      "customer": "7710350884",
+      "date": "02.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000029",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "c5ce7e78f48cc7ffefc9168dd72b2f6a",
+      "number": "0173200001426000153",
+      "name": "Оказание услуг по временной эксплуатации и приведению в нормативное техническое состояние светофорных объектов, автоматизированных систем управления дорожным движением и объектов дорожно-транспортной ",
+      "customer": "7710350884",
+      "date": "12.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000153",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "cd80721b7f5b03032588269ad4561f1b",
+      "number": "0173200001426000136",
+      "name": "Оказание услуг по аренде комплексов фотовидеофиксации административных правонарушений в течение 1826 календарных дней",
+      "customer": "7710350884",
+      "date": "10.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000136",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "5b86fc886891b15ace58e2fc7d6cd785",
+      "number": "0173200001426000135",
+      "name": "Оказание услуг по аренде комплексов фотовидеофиксации административных правонарушений в течение 1826 календарных дней",
+      "customer": "7710350884",
+      "date": "10.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000135",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "97de2551a4396412a03c2f3ff9197e44",
+      "number": "0373200082126000014",
+      "name": "Оказание услуг по санитарному содержанию кабин регулировщика",
+      "customer": "7710350884",
+      "date": "18.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000014",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "cf1fb04518d1117ccebcf50ea0009522",
+      "number": "0373200082126000013",
+      "name": "Поставка пожарных щитов",
+      "customer": "7710350884",
+      "date": "18.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000013",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "802733571b12139b482178015eec92df",
+      "number": "0373200082126000010",
+      "name": "Выполнение работ по изготовлению информационного стенда (панели)  «Мобильная стойка»",
+      "customer": "7710350884",
+      "date": "12.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000010",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "44aa89b795b63ea4671bd42da6621e0b",
+      "number": "0173200001426000133",
+      "name": "Поставка телескопических автогидроподъёмников",
+      "customer": "7710350884",
+      "date": "10.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000133",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "8814475c4bd34a325407ff31a39c372b",
+      "number": "0173200001426000017",
+      "name": "Выполнение работ по модернизации автоматизированной информационной системы комплексной схемы организации дорожного движения (АИС КСОДД) в течение 546 календарных дней",
+      "customer": "7710350884",
+      "date": "20.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001426000017",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "e2bdeb5182048a1c24c2c17841cc050d",
+      "number": "0173200001425001996",
+      "name": "Поставка автомобильного топлива по смарт-картам",
+      "customer": "7710660149",
+      "date": "12.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001425001996",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "0c260651b2d796fa39ebfadfb7c3e907",
+      "number": "0373200082125000873",
+      "name": "Поставка режущего плоттера",
+      "customer": "7710350884",
+      "date": "12.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082125000873",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "117514c533902cf9efb0dad20e41d524",
+      "number": "0173200001425002071",
+      "name": "Выполнение работ по модернизации информационной системы обеспечения деятельности Московской административной дорожной инспекции в течение 605 календарных дней",
+      "customer": "7710350884",
+      "date": "25.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001425002071",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "28374fc9624794ff5d11506f3e89a301",
+      "number": "0173200001425002070",
+      "name": "Выполнение работ по модернизации автоматизированной информационной системы учета отдельных категорий транспортных средств на территории города Москвы в течение 605 календарных дней",
+      "customer": "7710350884",
+      "date": "25.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200001425002070",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "088799197e76ccde368dfbbf7bf1a1a1",
+      "number": "0373200082125000920",
+      "name": "Поставка программного обеспечения защиты от распределенных атак инфраструктуры ГКУ ЦОДД",
+      "customer": "7710350884",
+      "date": "26.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082125000920",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "aa3beb1a2878e7b17667ab4c5a9116b1",
+      "number": "0373200082125000916",
+      "name": "Оказание услуг по осуществлению комплексного перемещения имущества ГКУ ЦОДД",
+      "customer": "7710350884",
+      "date": "26.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082125000916",
+      "keyword": "ЦОДД (7710350884)"
+    },
+    {
+      "uid": "4da901644cb0391c912fccd29efaccd3",
+      "number": "0372200213526000006",
+      "name": "Создание светофорных объектов (в том числе монтаж оборудования связи и установка детекторов транспорта на магистральных улицах общегородского значения) и создание условий беспрепятственного доступа ин",
+      "customer": "7801145804",
+      "date": "31.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000006",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "fabb67c4fa536ed85c8e6d49cff62bc6",
+      "number": "0172200002526000101",
+      "name": "Выполнение работ по созданию светофорных объектов (в том числе монтаж оборудования связи и установка детекторов транспорта на магистральных улицах общегородского значения), созданию нерегулируемого пе",
+      "customer": "7801145804",
+      "date": "30.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002526000101",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "f7700cd5535c7cc5d076fd4c71098281",
+      "number": "0372200213526000005",
+      "name": "Выполнение работ по установке (модернизации) оборудования системы передачи данных на светофорных объектах Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "04.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000005",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "2daa136397806be2773b151f2f4dc40a",
+      "number": "0372200213526000002",
+      "name": "Выполнение работ по разработке проектно-сметной документации по созданию технических средств организации дорожного движения для организации приоритетного пропуска маршрутных транспортных средств по ад",
+      "customer": "7801145804",
+      "date": "18.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000002",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "9a28629c322b8b4884b610664189a07f",
+      "number": "0372200213526000003",
+      "name": "Выполнение работ по разработке проектно-сметной документации по созданию технических средств организации дорожного движения для организации приоритетного пропуска маршрутных транспортных средств по ад",
+      "customer": "7801145804",
+      "date": "18.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000003",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "3101d76445c9cea2f47da7245e19bcf4",
+      "number": "0372200213526000004",
+      "name": "Оказание услуг по предоставлению элементов контактной сети для крепления оборудования Санкт-Петербургского государственного казенного учреждения «Дирекция по организации дорожного движения Санкт-Петер",
+      "customer": "7801145804",
+      "date": "26.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000004",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "2e8df6b35fc2029d11f1de97cbf8cd49",
+      "number": "0372200213526000001",
+      "name": "Оказание услуг по контролю качества горизонтальной дорожной разметки на территории Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "16.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000001",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "85cf1548f11c186ecf9c5a4571ae1aa9",
+      "number": "0172200002525000708",
+      "name": "Выполнение работ по демаркировке, нанесению и восстановлению дорожной разметки на улично-дорожной сети Выборгского, Калининского, Красногвардейского, Невского и Фрунзенского районов Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "23.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000708",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "d4050127adc8a9b9c7a568547d07b945",
+      "number": "0172200002525000706",
+      "name": "Выполнение работ по демаркировке, нанесению и восстановлению дорожной разметки на улично-дорожной сети Приморского, Курортного, Петроградского, Василеостровского районов Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "23.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000706",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "2932a76d55abe475e541dad504ee50f6",
+      "number": "0172200002525000705",
+      "name": "Выполнение работ по демаркировке, нанесению и восстановлению дорожной разметки на улично-дорожной сети Центрального, Московского, Кировского и Колпинского районов Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "22.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000705",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "0c65e30f9c12d197f2f691b88d71ee15",
+      "number": "0172200002525000704",
+      "name": "Выполнение работ по демаркировке, нанесению и восстановлению дорожной разметки на улично-дорожной сети Адмиралтейского, Пушкинского, Красносельского, Петродворцового и Кронштадтского районов Санкт-Пет",
+      "customer": "7801145804",
+      "date": "22.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000704",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "50746a12540737a0d4d2ddab824981cc",
+      "number": "0372200213525000073",
+      "name": "Оказание услуг по возмездному предоставлению права временного размещения оборудования комплексов фотовидеофиксации нарушений правил дорожного движения на элементах системы наружного освещения Санкт-Пе",
+      "customer": "7801145804",
+      "date": "29.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000073",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "01c01f2338ea109bcb54356918d56779",
+      "number": "0372200213525000072",
+      "name": "Выполнение работ по разработке проектно-сметной документации по созданию технических средств организации дорожного движения для организации приоритетного пропуска маршрутных транспортных средств по ад",
+      "customer": "7801145804",
+      "date": "25.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000072",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "3dace6d9210ce39a5356fef495abd145",
+      "number": "0372200213525000071",
+      "name": "Выполнение работ по разработке проектно-сметной документации по созданию технических средств организации дорожного движения для организации приоритетного пропуска маршрутных транспортных средств по ад",
+      "customer": "7801145804",
+      "date": "25.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000071",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "aa379a885b4711b6505f81b94477dc58",
+      "number": "0372200213525000070",
+      "name": "Выполнение работ по разработке проектно-сметной документации по устройству занижений бордюрного камня на существующих пешеходных переходах и занижений бордюрного камня в местах пересечения выездов с п",
+      "customer": "7801145804",
+      "date": "18.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000070",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "6c4f6cdf95433009ea6c039e367d4d9f",
+      "number": "0372200213525000069",
+      "name": "Выполнение работ по разработке проектно-сметной документации  по созданию и модернизации светофорных объектов по 5 адресам",
+      "customer": "7801145804",
+      "date": "17.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000069",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "ddfeba7db12006e4d3e6b8ee6a99890f",
+      "number": "0372200213525000068",
+      "name": "Оказание услуг по сопровождению государственной информационной системы Санкт-Петербурга «Единая платформа управления транспортной системой» в период с января по ноябрь 2026 года",
+      "customer": "7801145804",
+      "date": "11.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000068",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "ca41cc69f8f0e9c182dfdc165c9ea873",
+      "number": "0372200213525000066",
+      "name": "Выполнение работ по устройству трубной и кабельной канализации, с последующим восстановлением благоустройства на светофорных объектах в Приморском районе Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "26.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000066",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "38365a3337c557a0a14be51954525537",
+      "number": "0372200213525000065",
+      "name": "Выполнение работ по устройству трубной и кабельной канализации, с последующим восстановлением благоустройства на светофорных объектах по пр. Авиаконструкторов.",
+      "customer": "7801145804",
+      "date": "26.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000065",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "1172142457319f2e738a0c3ff9a542e2",
+      "number": "0372200213525000067",
+      "name": "Модернизация светофорного объекта (в том числе монтаж оборудования связи) в Невском районе Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "26.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000067",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "f3ff8868d11367abb3ba8196879da997",
+      "number": "0172200002525000651",
+      "name": "Выполнение работ по эксплуатации систем связи и управления объектов автоматизированных систем управления дорожным движением в 2025-2026 годах для государственных нужд Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "20.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000651",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "e10e769772edb9d404ad7bcc0e004d04",
+      "number": "0372200213525000064",
+      "name": "Оказание услуг почтовой связи по пересылке международной корреспонденции для обеспечения государственных нужд Санкт-Петербургского государственного казенного учреждения \"Дирекция по организации дорожн",
+      "customer": "7801145804",
+      "date": "24.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000064",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "8bdd2cd63c21a2a48d97adcd9c4829cf",
+      "number": "0372200213525000063",
+      "name": "Оказание услуг по техническому обслуживанию печатающей техники",
+      "customer": "7801145804",
+      "date": "20.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213525000063",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "778d5a3ef933b1cc51a6911621b77538",
+      "number": "0172200002525000626",
+      "name": "Выполнение работ по содержанию технических средств организации дорожного движения в Невском районе Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "14.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000626",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "233b0c502c9bbb8e2ede13f2dcfb7b4f",
+      "number": "0172200002525000625",
+      "name": "Выполнение работ по содержанию технических средств организации дорожного движения в Центральном районе Санкт-Петербурга",
+      "customer": "7801145804",
+      "date": "14.11.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172200002525000625",
+      "keyword": "ЦОДД (7801145804)"
+    },
+    {
+      "uid": "1e699b943b87908fad2e51218f3c6a3a",
+      "number": "0818500000826001835",
+      "name": "Поставка прицепа прикрытия",
+      "customer": "2309179043",
+      "date": "20.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000826001835",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "bb200b68af99e46437c9e3b0e094ba43",
+      "number": "0818500006726000014",
+      "name": "Оказание услуг по оклейке автотранспортных средств",
+      "customer": "2309179043",
+      "date": "19.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000014",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "ccefaf715e067e0bf8b1e1476a24e86c",
+      "number": "0818500006726000015",
+      "name": "Оказание услуг по аренде автогидроподъемника (автовышки) с водителем.",
+      "customer": "2309179043",
+      "date": "19.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000015",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "2e420f7762cd8d18821d16c694a0340f",
+      "number": "0818500006726000016",
+      "name": "Оказание услуг по техническому обслуживанию крано-манипуляторной установки",
+      "customer": "2309179043",
+      "date": "25.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000016",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "fedf7e9e6bd74e709b51f65513cb42dc",
+      "number": "0818500006726000013",
+      "name": "Оказание услуг по техническому обслуживанию и ремонту автотранспортных средств",
+      "customer": "2309179043",
+      "date": "16.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000013",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "5de4941aad7b9b3fc3e33f7b85878da1",
+      "number": "0818500006726000012",
+      "name": "Оказание услуг по техническому обслуживанию и ремонту автотранспортных средств",
+      "customer": "2309179043",
+      "date": "05.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000012",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "54eb31556785dff2b0ccb0a4ab322195",
+      "number": "0818500006726000011",
+      "name": "Оказание услуг по разработке базовых норм расхода топлива на транспортные средства​",
+      "customer": "2309179043",
+      "date": "02.03.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000011",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "b434fcdfc8d800fedba2d2a24825325a",
+      "number": "0818500000826001139",
+      "name": "Поставка автомобиля легкового специального",
+      "customer": "2309179043",
+      "date": "25.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000826001139",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "425bb32d80c3b7e52610ffe7e29faf42",
+      "number": "0818500006726000009",
+      "name": "Оказание услуг по предоставлению права использования средства криптографической защиты информации \"VipNet Client\" на условия простой (неисключительной) лицензии",
+      "customer": "2309179043",
+      "date": "26.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000009",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "0a4f5189c1ff774c81c3838bf8223a33",
+      "number": "0818500006726000010",
+      "name": "Поставка батарей аккумуляторных литий-ионных",
+      "customer": "2309179043",
+      "date": "26.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000010",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "e2003bb6f186cdd0f947241d1650c474",
+      "number": "0818500006726000008",
+      "name": "Поставка ключевых носителей информации USB-Token",
+      "customer": "2309179043",
+      "date": "25.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000008",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "244f9f7d523ccc845146e73154a5fd1f",
+      "number": "0818500006726000007",
+      "name": "Оказание услуг по аренде автогидроподъемника (автовышки) с водителем.",
+      "customer": "2309179043",
+      "date": "24.02.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000007",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "19f812f0ead59ce448739a0c8f910c49",
+      "number": "0818500006726000006",
+      "name": "Оказание услуг по предоставлению права использования средства криптографической защиты информации «Крипто-Про CSP» на условия простой (неисключительной) лицензии",
+      "customer": "2309179043",
+      "date": "29.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000006",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "c8788bb2591ad87b796cc86b6cb306e7",
+      "number": "0818500006726000005",
+      "name": "Поставка мочевины для дизельного двигателя (жидкость AdBlue)",
+      "customer": "2309179043",
+      "date": "22.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000005",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "c85839c1a8f49b23eaf356b3ffcc1cbc",
+      "number": "0818500006726000004",
+      "name": "Поставка мебели металлической",
+      "customer": "2309179043",
+      "date": "22.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000004",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "a97243ad264a23a4d9eb408802d8fb7c",
+      "number": "0818500006726000003",
+      "name": "Поставка мебели металлической",
+      "customer": "2309179043",
+      "date": "21.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000003",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "8bc7835748b816505661810d231ce9f8",
+      "number": "0818500006726000001",
+      "name": "Оказание услуг по пересылке международной письменной корреспонденции (письмо заказное) из Российской Федерации",
+      "customer": "2309179043",
+      "date": "16.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000001",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "73af7bf2178d8926b8c4dbf5d80b7cdd",
+      "number": "0818500006726000002",
+      "name": "Поставка смазки пластичной (литол-24)",
+      "customer": "2309179043",
+      "date": "16.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000002",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "34090c4636dd3310421dca6f6e688df6",
+      "number": "0818500000826000006",
+      "name": "Поставка  автомобильного бензина и дизельного топлива через автозаправочные станции",
+      "customer": "2309179043",
+      "date": "15.01.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000826000006",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "fa3dd1de274721dec9796f08d7a5a068",
+      "number": "0818500000825010910",
+      "name": "Оказание услуг по техническому обслуживанию и ремонту весов автомобильных электронных портативных ВА-20П",
+      "customer": "2309179043",
+      "date": "17.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000825010910",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "77ccee936bed75cb006cbd0d07444589",
+      "number": "0818500000825010310",
+      "name": "Поставка прицепа для перевозки маломерных судов",
+      "customer": "2309179043",
+      "date": "08.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000825010310",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "6baff70bce20288217b97e576efe0bee",
+      "number": "0818500006725000134",
+      "name": "Поставка ноутбука",
+      "customer": "2309179043",
+      "date": "15.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006725000134",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "32021fc36844c5de4f4a3dc97e13a651",
+      "number": "0818500006725000133",
+      "name": "Поставка ноутбука",
+      "customer": "2309179043",
+      "date": "15.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006725000133",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "93668332b3055e4a8df54165807fc21e",
+      "number": "0818500000825010221",
+      "name": "Поставка автогидроподъемника",
+      "customer": "2309179043",
+      "date": "05.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000825010221",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
+      "uid": "295dc6ad3e7c0ff1812c57bf87c53348",
+      "number": "0818500000825010349",
+      "name": "Поставка  автомобильного бензина и дизельного топлива через автозаправочные станции",
+      "customer": "2309179043",
+      "date": "09.12.2025",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000825010349",
+      "keyword": "ЦОДД (2309179043)"
+    },
+    {
       "uid": "26d8208924b18b7f98537add93be4871",
       "number": "0351300082926000102",
       "name": "Выполнение работ по ремонту доступной среды, в зданиях военных комиссариатов, расположенных в Новосибирской области, их приспособлении (адаптации) для обеспечения трудоустройства и организации приема ",
@@ -460,7 +1135,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "31.03.2026 21:07",
-  "total": 51,
-  "new_count": 25
+  "updated": "31.03.2026 21:32",
+  "total": 126,
+  "new_count": 75
 }
