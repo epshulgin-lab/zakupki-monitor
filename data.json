@@ -1,241 +1,85 @@
-{
-  "items": [
-    {
-      "uid": "1d29ac2c849c07d6d010131c9d7b7e7c",
-      "number": "0139200000126003386",
-      "name": "Поставка медицинских изделий",
-      "customer": "4230034273",
-      "date": "26.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0139200000126003386",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "b2882df5fc6feb3bc656df205a8bf7c1",
-      "number": "0157600001726000030",
-      "name": "Выполнение работ по акарицидной обработке от клещей парков, скверов, мест отдыха на территории Печорского муниципального округа",
-      "customer": "6000006557",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0157600001726000030",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "75cc8eb197cbc3b967d8c6bdc3df203d",
-      "number": "0342100006126000012",
-      "name": "Оказание услуг по техническому обслуживанию системы кондиционирования",
-      "customer": "6311078850",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0342100006126000012",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "16b3d69eccbe02736732ff984966c1e8",
-      "number": "0375200036226000111",
-      "name": "—",
-      "customer": "9102066857",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0375200036226000111",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "48e487bb4c2464600844c0858055c4ac",
-      "number": "0373100011826000035",
-      "name": "Камера тепла и влаги",
-      "customer": "7717149663",
-      "date": "25.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373100011826000035",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "c10c7bffe46b15e5dbaec5e4db826975",
-      "number": "0372200289426000027",
-      "name": "Поставка рабочих тетрадей для нужд ГБОУ № 509 в 2026 году",
-      "customer": "7807062382",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200289426000027",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "fa719897e6e6b47674eed7989d9142d9",
-      "number": "0134100008426000009",
-      "name": "Оказание услуг по расчету категорий помещений и наружных строений (установок) по взрывоопасной и пожарной опасности",
-      "customer": "3808014761",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0134100008426000009",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "39c3596ac70562459dec25b6085a6883",
-      "number": "0334300006726000088",
-      "name": "Поставка лекарственных препаратов для медицинского применения на 2026 год (ЦЕФТРИАКСОН Ф)",
-      "customer": "8505002903",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0334300006726000088",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "3869a77dc97e36a0a87484f4b5c37c18",
-      "number": "0321200014126000321",
-      "name": "Поставка изделий медицинского назначения",
-      "customer": "2633001661",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0321200014126000321",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "e0aa5b64e6d9b37a852c6098dd1c59ea",
-      "number": "0873500001826004817",
-      "name": "Поставка лекарственного препарата (Силденафил) для индивидуального обеспечения граждан, имеющих право на получение государственной социальной помощи в городе Москве (УНЗ: Z2610555 - Д)",
-      "customer": "7714338609",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0873500001826004817",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "81061dfe46d774b009aa2447e6b70bb9",
-      "number": "0375200036226000104",
-      "name": "—",
-      "customer": "9102066857",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0375200036226000104",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "b065320097a8e3e2a2f5c6a80971bd37",
-      "number": "0372200050026000009",
-      "name": "Поставка дезинфицирующих средств для Государственного бюджетного общеобразовательного учреждения средняя общеобразовательная школа № 164 Красногвардейского района Санкт – Петербурга, для нужд Санкт-Пе",
-      "customer": "7806039648",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200050026000009",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "c596d35ee4a3b38956957c61c11f6c35",
-      "number": "0137600004226000035",
-      "name": "Оказание услуг по ликвидации стихийных свалок (навалов) мусора, расположенных в пределах границ Малоярославецкого муниципального округа Калужской области в 2026 году",
-      "customer": "4000028356",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0137600004226000035",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "cb321f2325387e6b806d3ad4b2cd99d2",
-      "number": "0319300156126000043",
-      "name": "—",
-      "customer": "2416002065",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0319300156126000043",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "b6889feda9d2d3bafe68b6db4b6d0517",
-      "number": "0366200003126000047",
-      "name": "—",
-      "customer": "7105015293",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0366200003126000047",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "41298d680648b06b529f9fc97c4d0293",
-      "number": "0335300019126000081",
-      "name": "на поставку сертификатов активации сервиса совместной технической поддержки средств защиты",
-      "customer": "3906029237",
-      "date": "24.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0335300019126000081",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "53106bc68c99cd692bcaceb900200658",
-      "number": "0830500000226000887",
-      "name": "Поставка лекарственного препарата для медицинского применения ИММУНОГЛОБУЛИН ЧЕЛОВЕКА НОРМАЛЬНЫЙ",
-      "customer": "3525480585",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0830500000226000887",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "7926b243ab5b3504338636ed80513dc9",
-      "number": "0306200011426000159",
-      "name": "Поставка медицинских изделий (чехол защитный для инвазивного датчика ультразвуковой визуализации) для нужд Государственного бюджетного учреждения здравоохранения Республики Карелия «Республиканский он",
-      "customer": "1001015594",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0306200011426000159",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "0b32901e63c13a5fabb65758213a43d4",
-      "number": "0166200001626000174",
-      "name": "—",
-      "customer": "7107006311",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0166200001626000174",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "b1b29e9e94f8c501148fcb2a2faff9b4",
-      "number": "0341300000326000086",
-      "name": "Поставка лекарственных препаратов для медицинского применения с МНН УРСОДЕЗОКСИХОЛЕВАЯ КИСЛОТА, ГИДРОКСИЗИН, ИПРАТРОПИЯ БРОМИД+ФЕНОТЕРОЛ, МЕТРОНИДАЗОЛ, МАКРОГОЛ, ЦЕФОТАКСИМ    ",
-      "customer": "4407006268",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0341300000326000086",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "7a67e41035f323fb641476e6834a7734",
-      "number": "0335300048226000024",
-      "name": "—",
-      "customer": "3916003189",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0335300048226000024",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "5de7b2d4603f65b070b3236ce371b095",
-      "number": "0312200024826000038",
-      "name": "—",
-      "customer": "1701052898",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0312200024826000038",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "de4a51b58f5c72c7bf056f5d166f02cc",
-      "number": "0139200000126003424",
-      "name": "Оказание услуг по техническому обслуживанию систем медицинского газоснабжения отделений больницы",
-      "customer": "4214003334",
-      "date": "26.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0139200000126003424",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "3568e8e484e10a81619b0c3ad49cd6bc",
-      "number": "0375200036226000109",
-      "name": "—",
-      "customer": "9102066857",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0375200036226000109",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "3c438ba250f72eb5c51b422f4bebddc3",
-      "number": "0158200003626000009",
-      "name": "Информационная безопасность для региональной системы оповещения населения Ростовской области",
-      "customer": "6165119111",
-      "date": "31.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0158200003626000009",
-      "keyword": "светофор"
-    },
-    {
-      "uid": "26aeabd0c99c77002e55825fbcd435af",
-      "number": "—",
-      "name": "—",
-      "customer": "—",
-      "date": "—",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=—",
-      "keyword": "мониторинг ДТП и ЧС"
-    }
-  ],
-  "updated": "31.03.2026 20:29",
-  "total": 26,
-  "new_count": 25
-}
+cat > ~/Downloads/files/parse.py << 'EOF'
+#!/usr/bin/env python3
+import urllib.request, urllib.parse, json, os, time, hashlib
+from datetime import datetime
+
+DATA_FILE = "data.json"
+KEYWORDS = [
+    "мониторинг ДТП и ЧС",
+    "интеллектуальная транспортная система",
+    "адаптивное управление светофорами",
+    "автоматизация управления дорожным движением",
+    "видеоаналитика транспортных потоков",
+    "детектирование транспортных средств",
+    "светофорное регулирование",
+    "посты мониторинга ДТП",
+    "умный перекресток",
+    "система управления дорожным движением",
+    "транспортный детектор",
+]
+API_BASE = "https://v2.gosplan.info"
+
+def load_existing():
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r", encoding="utf-8") as f: return json.load(f)
+    return {"items": [], "updated": None, "total": 0}
+
+def save_data(data):
+    with open(DATA_FILE, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False, indent=2)
+
+def fetch(keyword, skip=0, limit=25):
+    params = urllib.parse.urlencode({"limit": limit, "skip": skip, "name": keyword})
+    url = f"{API_BASE}/fz44/purchases?{params}"
+    try:
+        with urllib.request.urlopen(url, timeout=15) as r:
+            return json.loads(r.read().decode("utf-8"))
+    except Exception as e:
+        print(f"  Ошибка '{keyword}': {e}"); return None
+
+def format_item(p, keyword):
+    try:
+        number = p.get("purchase_number") or "—"
+        name = p.get("object_info") or "—"
+        customers = p.get("customers") or p.get("owners") or []
+        customer = customers[0] if customers else "—"
+        date = p.get("published_at") or "—"
+        if date and len(date) >= 10:
+            try: date = datetime.fromisoformat(date[:10]).strftime("%d.%m.%Y")
+            except: pass
+        return {
+            "uid": hashlib.md5(number.encode()).hexdigest(),
+            "number": number,
+            "name": str(name)[:200],
+            "customer": str(customer)[:150],
+            "date": date,
+            "url": f"https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber={number}",
+            "keyword": keyword
+        }
+    except: return None
+
+def run():
+    print(f"Старт: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    existing = load_existing()
+    existing_uids = {item["uid"] for item in existing.get("items", [])}
+    new_items = []
+
+    for i, keyword in enumerate(KEYWORDS):
+        print(f"  [{i+1}/{len(KEYWORDS)}] {keyword}")
+        data = fetch(keyword)
+        if data:
+            purchases = data if isinstance(data, list) else []
+            print(f"    найдено: {len(purchases)}")
+            for p in purchases:
+                item = format_item(p, keyword)
+                if item and item["uid"] not in existing_uids:
+                    existing_uids.add(item["uid"])
+                    new_items.append(item)
+        time.sleep(3)
+
+    all_items = (new_items + existing.get("items", []))[:1000]
+    save_data({"items": all_items, "updated": datetime.now().strftime("%d.%m.%Y %H:%M"), "total": len(all_items), "new_count": len(new_items)})
+    print(f"Готово. Новых: {len(new_items)}, всего: {len(all_items)}")
+
+if __name__ == "__main__": run()
+EOF
+python3 ~/Downloads/files/parse.py
