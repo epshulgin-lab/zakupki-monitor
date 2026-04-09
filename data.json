@@ -1,6 +1,249 @@
 {
   "items": [
     {
+      "uid": "6e46f78b4b9040f930a563d57591fa0c",
+      "number": "0817200000326004962",
+      "name": "Поставка изделий медицинского назначения",
+      "customer": "2223012765",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0817200000326004962",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "62a1fc65febd5d5a95bd6ebd5668232e",
+      "number": "0148300021226000112",
+      "name": "Оказание услуг по освещению деятельности Совета депутатов Городского округа Люберцы Московской области в периодическом печатном издании СМИ (газета) с дублированием материалов на официальном сайте ред",
+      "customer": "5027115417",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0148300021226000112",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "df3014dbcdb6c47e49fffeb95edd283b",
+      "number": "0319200069026000055",
+      "name": "Поставка дротаверина",
+      "customer": "2444002596",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0319200069026000055",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2cf278712139820150a06f94eefc14ac",
+      "number": "0321200028926000113",
+      "name": "Поставка лекарственных препаратов (тразодон МСП)",
+      "customer": "2633002440",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0321200028926000113",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b823102b0a574795b3e6c155db7b03de",
+      "number": "0123200000326000581",
+      "name": "Поставка расходных материалов",
+      "customer": "2801126023",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0123200000326000581",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b05591e4e773b95e060f8924044cb059",
+      "number": "0119300020126000024",
+      "name": "Приобретение аудио-светового оборудования в Долгомостовский СДК",
+      "customer": "2401005987",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0119300020126000024",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "848060c2be07e8da66e87865c79e51d6",
+      "number": "0372200123026000003",
+      "name": "Поставка бланков из бумаги или картона в ГБОУ школа № 635 Приморского района Санкт-Петербурга",
+      "customer": "7814103801",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200123026000003",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ac1792bc3453c6af765208ea84136a72",
+      "number": "0372100038226000043",
+      "name": "Поставка медицинских изделий",
+      "customer": "7811017424",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372100038226000043",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "341bbcb10016e775e78c6514dd0316ff",
+      "number": "0334300059026000036",
+      "name": "поставка оборудования в целях обеспечения пациентов, нуждающихся в паллиативной медицинской помощи медицинским оборудованием для использования на дому (ЛОТ 2)",
+      "customer": "3809017268",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0334300059026000036",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "88f8af147c23ea2683ddff5501274095",
+      "number": "0346200000226000076",
+      "name": "Поставка лекарственных препаратов для медицинского применения на 1 полугодие 2026 года",
+      "customer": "4826010458",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0346200000226000076",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c2235624a9931af7868ba9fb8c28d0bd",
+      "number": "0873500001826005497",
+      "name": "Поставка лекарственного препарата (Адалимумаб (ТН: Эксэмптия)) для обеспечения пациента на основании решения врачебной комиссии (УНЗ: Z2611268)",
+      "customer": "7714338609",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0873500001826005497",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b128eaea4d1f68a2bd1960b2e122cc69",
+      "number": "0134200000826000008",
+      "name": "Поставка хозяйственных товаров",
+      "customer": "3808170979",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0134200000826000008",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "11dbb6739720aee53c541fc33fb5495a",
+      "number": "0372200262226000263",
+      "name": "Поставка лекарственных препаратов для медицинского применения",
+      "customer": "7801001369",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200262226000263",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d50d667f816387464ec20bc2d7eafbff",
+      "number": "0320400001926000063",
+      "name": "Поставка топлива дизельного для мотоботов для нужд \"БИФ ВНИРО\"",
+      "customer": "7708245723",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0320400001926000063",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b6f789081a5d8d9c4b001e7e739b0bd7",
+      "number": "0342300000126000440",
+      "name": "Поставка бумаги для офисной техники",
+      "customer": "6315856533",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0342300000126000440",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1d01fa517cb200384b34bcc5f1396418",
+      "number": "0173100011926000017",
+      "name": "Выполнение научно-исследовательской работы по теме: «Разработка рекомендаций по актуализации Пособия для кодирования профессий рабочих и должностей служащих и Алфавитного словаря занятий, используемых",
+      "customer": "7708234640",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173100011926000017",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e145e62777b937ffea3caac9c95e785a",
+      "number": "0373200114226000155",
+      "name": "Электронный аукцион на поставку материала для реконструкции мочевыводящих путей в ЦДУ ЦАХ (ВМП 2026) для нужд ГБУЗ «ДГКБ им. Н.Ф.Филатова ДЗМ»",
+      "customer": "7703111067",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200114226000155",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "684bbedcb5f342eb1a69a0ba3b293a75",
+      "number": "0851200000626002344",
+      "name": "Оказание услуг по ремонту аппарата искусственной вентиляции легких «LEONI plus» ser. № 0271004HUL51501595, 2016, имеющегося у Заказчика",
+      "customer": "5403123861",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626002344",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2bd1b856b98ffebebe1383c59c0abc1d",
+      "number": "0372200240926000016",
+      "name": "Поставка раскладушек детских",
+      "customer": "7817026961",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200240926000016",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "48de7e8888701d91fac007f3b57e4a1a",
+      "number": "0321300005026000086",
+      "name": "Поставка лекарственных препаратов (лот 4) для медицинского применения отпускаемых по рецепту врача (фельдшера) детям в возрасте до трех лет",
+      "customer": "2608003721",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0321300005026000086",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "5b3751d57b717006d46797add291bc3d",
+      "number": "0105500000226000724",
+      "name": "Поставка продуктов питания (бакалея 1)",
+      "customer": "0816014657",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0105500000226000724",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "717a37e2ba3724bc7a642de925a1ceaa",
+      "number": "0836600003326000221",
+      "name": "Поставка комплектов белья постельного для оказания социальной поддержки малообеспеченных граждан города Твери.",
+      "customer": "6950217154",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0836600003326000221",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9e0153dbf348880fd35c4290fc631adf",
+      "number": "0158300026726000019",
+      "name": "Приобретение жилого помещения (квартиры) для детей-сирот и детей, оставшихся без попечения родителей, лиц из числа детей-сирот и детей, оставшихся без попечения родителей, не имеющих закрепленного жил",
+      "customer": "6126003177",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0158300026726000019",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "f20f9d4b5f6032d8a77e486527020b5a",
+      "number": "0318300552926000221",
+      "name": "Выполнение работ по техническому обслуживанию сетей уличного освещения на территории муниципального образования городской округ город Армавир Краснодарского края в 2026 году",
+      "customer": "2372007930",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318300552926000221",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "8dc6772952aca5282cc5225c4e210dfb",
+      "number": "0354300091226000015",
+      "name": "Закупка штифтов бумажных эндодонтических",
+      "customer": "5753011875",
+      "date": "09.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0354300091226000015",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "fe59fc6467c66bfc4853a541b6386a88",
+      "number": "0851200000626002327",
+      "name": "Поставка шин пневматических для легкового автомобиля",
+      "customer": "5402570056",
+      "date": "08.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626002327",
+      "keyword": "ГКУ НСО ЦОДД Новосибирск"
+    },
+    {
+      "uid": "890dced244e8dd4b745f8704f1714968",
+      "number": "0351200025326000024",
+      "name": "Оказание услуг по ремонту комплекса фото-видео фиксации «Кречет СМ», заводской №1509047, инвентарный №10134100396, установленного на рубеже контроля: автодорога Р254, 1441 км (Омский тракт д.1/2 г.Обь",
+      "customer": "5402570056",
+      "date": "08.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351200025326000024",
+      "keyword": "ГКУ НСО ЦОДД Новосибирск"
+    },
+    {
       "uid": "27531ecb6395e4d1ecd24705578a3529",
       "number": "0820500000826001776",
       "name": "Поставка канцелярских и офисных принадлежностей",
@@ -3754,7 +3997,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "08.04.2026 09:57",
-  "total": 417,
-  "new_count": 28
+  "updated": "09.04.2026 10:04",
+  "total": 444,
+  "new_count": 27
 }
