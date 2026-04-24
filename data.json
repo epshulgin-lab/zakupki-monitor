@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "uid": "6772c973e4976eeb05a66e7dbda02371",
+      "number": "0137200001226003449",
+      "name": "Поставка лекарственного препарата для медицинского применения (МНН Фторурацил) (лот 67)",
+      "customer": "4027022305",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0137200001226003449",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0479dad8fb1ac50b9ef4f26a21c684db",
+      "number": "0318300469026000258",
+      "name": "Оказание услуг по пультовой охране ГБУЗ \"Динская ЦРБ\" МЗ КК",
+      "customer": "2330020464",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318300469026000258",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4689026acb791b78933a20d3103ce9e4",
+      "number": "0361100010626000050",
+      "name": "Оказание образовательных услуг дополнительного профессионального образования по программе профессиональной переподготовки: \"Педагогика дополнительного образования\"",
+      "customer": "6501109521",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0361100010626000050",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4b0377cf1688bf09dd582b7315e19856",
+      "number": "0351300074326000342",
+      "name": "Поставка лекарственных препаратов для медицинского применения",
+      "customer": "5410127176",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300074326000342",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "7b11cf8a0cc4a266bd6a5300b5abd5a6",
+      "number": "0351300107026000080",
+      "name": "Поставка спецодежды для эксплуатационных участков МКУ \"Гормост\" (плащи)",
+      "customer": "5406186468",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300107026000080",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4a92b0ef70c50fc05d9d7b9f8c30c262",
+      "number": "0842200000526001475",
+      "name": "Поставка лекарственного препарата «ДЕПАКИН ХРОНО» по решению врачебной комиссии в рамках льготного лекарственного обеспечения на 2026 год. (п26-01-2336)",
+      "customer": "6318197367",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0842200000526001475",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "14e927828989279d9a98acdea3b5d05c",
+      "number": "0869200000226003537",
+      "name": "Услуги по сопровождению и технической поддержке программных продуктов, входящих в состав программно-технологического комплекса \"Система обработки информации службы занятости населения\" (ПТК \"СОИ СЗН\")",
+      "customer": "7401007800",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0869200000226003537",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "6e4e040b4cdddd2a4e694022110fe558",
+      "number": "0873500001826006578",
+      "name": "Поставка лекарственного препарата (Колхицин) для индивидуального обеспечения граждан, имеющих право на получение государственной социальной помощи в городе Москве (УНЗ: Z2613964 - повторная закупка)",
+      "customer": "7714338609",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0873500001826006578",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "a1f4af5e6e83b7e1c3d58ac3355c1be7",
+      "number": "0124200000626002751",
+      "name": "Поставка расходных материалов для проведения аферезных процедур.",
+      "customer": "2901030477",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0124200000626002751",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0c31aeddc7eb15519d01189157d4f8f2",
+      "number": "0816500000626007166",
+      "name": "Поставка продуктов питания Яйца куриные в скорлупе свежие",
+      "customer": "1433013717",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0816500000626007166",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d44c626289af04fb106d8a029193ae4a",
+      "number": "0159100007726000016",
+      "name": "Оказание услуг по техническому обслуживанию беспилотного летательного аппарата",
+      "customer": "6234010728",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0159100007726000016",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "265dece52c662ed9c37bc7bda3bceb2b",
+      "number": "0848300049026000392",
+      "name": "Поставка уайт-спирита",
+      "customer": "5034051122",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0848300049026000392",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9d67ee76a98308737dd9c4e7e558728d",
+      "number": "0368300000126000767",
+      "name": "Поставка мыла туалетного твердого для надлежащего обеспечения образовательного процесса",
+      "customer": "7327028060",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0368300000126000767",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "41461ff2a28f14d161fc1d73807c7426",
+      "number": "0374200000426000074",
+      "name": "—",
+      "customer": "9204022136",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0374200000426000074",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "fa6165a6b4787847f4a31d83a2d210ec",
+      "number": "0153300089026000019",
+      "name": "Приобретение для муниципальных нужд Кувандыкского муниципального округа на вторичном рынке жилья жилой квартиры общей площадью не менее 33,00 кв. м., для граждан отдельных категорий, состоящих на учет",
+      "customer": "5605022182",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0153300089026000019",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "65451f29dcf59f54288f90b1fb0dfb2d",
+      "number": "0387200001426000211",
+      "name": "Поставка продуктов питания.",
+      "customer": "8610010212",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0387200001426000211",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "facc4807f484ef8595463f9670efa864",
+      "number": "0352100025026000035",
+      "name": "Поставка барометра рабочего сетевого",
+      "customer": "5504233490",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0352100025026000035",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "fefa71779ad2431098b7610ebc039c7a",
+      "number": "0301200007226000016",
+      "name": "Поставка продуктов питания ( бакалея 2)",
+      "customer": "0244001658",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301200007226000016",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "aa0240be3fd5886cf06d4ce1145b0409",
+      "number": "0820500000826002171",
+      "name": "Ограждение вокруг территории амбулатории по адресу: пгт. Восток, ул. Набережная, 18а",
+      "customer": "2517000522",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0820500000826002171",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "a438dc36349de46c6fe879475eedd1a2",
+      "number": "0845500001026000063",
+      "name": "Поставка насосного агрегата",
+      "customer": "4704109410",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0845500001026000063",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "af2dd3dc86dd3b76749d7da46de019ac",
+      "number": "1034200004926000108",
+      "name": "Поставка чистящих и моющих средств",
+      "customer": "3808015003",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=1034200004926000108",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9d8dc4384677d2096b3734aa6b3aa6f1",
+      "number": "0373200022226000968",
+      "name": "Поставка лекарственных средств (Магния сульфат) для нужд ГБУЗ МКНЦ имени А.С. Логинова ДЗМ в 2026 году",
+      "customer": "7720093523",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200022226000968",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "68091b46d5ec41578154e9cd8bb196ee",
+      "number": "0373200094026000121",
+      "name": "Поставка ванн моечных для пищеблока",
+      "customer": "7723040720",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200094026000121",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "92fb78d62282f6396f62b2d2fe319b74",
+      "number": "0816500000626007165",
+      "name": "Поставка запасных частей и расходных материалов для нужд дизельных станций",
+      "customer": "1435060409",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0816500000626007165",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e378f1f61df7f4b730142b591cdcfcdf",
+      "number": "0369200000526000269",
+      "name": "Поставка проводников эндоскопических, одноразового использования",
+      "customer": "7453013642",
+      "date": "24.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0369200000526000269",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ac8c6b17136f5ece8d28a76be8c92cac",
+      "number": "0373200082126000146",
+      "name": "Поставка бетонных колец и плит для нужд блока строительства светофорных объектов",
+      "customer": "7710350884",
+      "date": "23.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000146",
+      "keyword": "ГКУ ЦОДД Москва"
+    },
+    {
+      "uid": "40fa7ec4cbc930193a6e07e9d47a2d97",
+      "number": "0351300298626000055",
+      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки лакокрасочными материалами на остановках общественного транспорта в г. Новосибирске",
+      "customer": "5407070339",
+      "date": "23.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000055",
+      "keyword": "ГЦОДД Новосибирск"
+    },
+    {
+      "uid": "bc49c572c11070c9ad7ba7c7e7890e6d",
+      "number": "0351300298626000054",
+      "name": "Поставка противогололедного комбинированного материала (КМ)",
+      "customer": "5407070339",
+      "date": "23.04.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000054",
+      "keyword": "ГЦОДД Новосибирск"
+    },
+    {
       "uid": "1477444dd812532d8d008a12690fc11d",
       "number": "0158300034526000125",
       "name": "—",
@@ -6670,7 +6922,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "23.04.2026 07:55",
-  "total": 741,
-  "new_count": 33
+  "updated": "24.04.2026 08:07",
+  "total": 769,
+  "new_count": 28
 }
