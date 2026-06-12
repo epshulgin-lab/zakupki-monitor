@@ -1,6 +1,231 @@
 {
   "items": [
     {
+      "uid": "383d53d0f645a670652e3ed61c383213",
+      "number": "0348500002126000066",
+      "name": "—",
+      "customer": "5048054677",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0348500002126000066",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "835d056c17e0b649797a90a2be98d217",
+      "number": "0101300000526000041",
+      "name": "Поставка горюче-смазочных материалов (ГСМ) по лимитным пластиковым картам на 2 полугодие 2026 года",
+      "customer": "0202006492",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0101300000526000041",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "407cc56306299272f60b8c02e4e2303f",
+      "number": "0432200000826003107",
+      "name": "Ц-6776_Закупка медицинских изделий",
+      "customer": "5260136299",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0432200000826003107",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "88cd486938c0b769fb7af16c3574f70d",
+      "number": "0348500002126000065",
+      "name": "Оказание услуг по охране объектов имущества, обеспечению внутриобъектового и пропускного режимов ГБУЗ МО \"Чеховская больница\" на 2026 год",
+      "customer": "5048054677",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0348500002126000065",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "eb02ed2db7e4594c830f876f4dfb9987",
+      "number": "0145600003926000005",
+      "name": "Ремонт дворовой территории многоквартирного дома по ул. Комсомольская, д.2",
+      "customer": "4720007705",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0145600003926000005",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "32d231f861e80c93e3675624116e308c",
+      "number": "0845500001026000123",
+      "name": "Поставка стеклоочистителя",
+      "customer": "4704109410",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0845500001026000123",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "66efc18b814495b725c216d1cbc8a4bc",
+      "number": "0345300063926000056",
+      "name": "Поставка в 2026 году лекарственного препарата Гразопревир+Элбасвир",
+      "customer": "4710001670",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0345300063926000056",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "7363d812185cb02d1cc9bd19577316a9",
+      "number": "0343300013626000092",
+      "name": "поставка изделий медицинского назначения для стоматологического отделения (Лот 8)",
+      "customer": "4501019049",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0343300013626000092",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "69e7fe6675b0e39d17bf36126995b586",
+      "number": "0301100049626000969",
+      "name": "Поставка медицинской мебели для нужд Уф НИИ ГБ ФГБОУ ВО БГМУ Минздрава России",
+      "customer": "0274023088",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301100049626000969",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "12835ca8c180053822c84abd7c40e00f",
+      "number": "0301300001326000090",
+      "name": "—",
+      "customer": "0259002252",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301300001326000090",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "25e81049c6c835a6e32b82959fed5bf2",
+      "number": "0351200003126000039",
+      "name": "Поставка бумаги индикаторной",
+      "customer": "5403120155",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351200003126000039",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "bdd99f75ad9cd6005767591e1b245cba",
+      "number": "0362300316026000080",
+      "name": "поставка расходных материалов медицинского назначения",
+      "customer": "6637000289",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0362300316026000080",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "f7a1746a1a8fc0dd28ead172cadb81ee",
+      "number": "0357200017626000355",
+      "name": "Набор для энтерального питания, для взрослых/педиатрический, стерильный (5081-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000355",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b2600ea3dc1b0ad3680e036eeba36b25",
+      "number": "0318600005026000661",
+      "name": "Поставка расходного материала для тромбоэкстрации Лот 2",
+      "customer": "2301097511",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318600005026000661",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "5d001e5cf498d1c7c1b5124aaa7369a7",
+      "number": "0357200017626000349",
+      "name": "Игла для биопсии мягких тканей, одноразового использования (5079-З-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000349",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3ec0f9d416ce76ebe6f7ed5d196a5163",
+      "number": "0357200017626000354",
+      "name": "Реагенты для филиала \"Великолукский\" (5087-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000354",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0ac9a0ca882c06a4a5c1bd43b22b5e00",
+      "number": "0357200017626000353",
+      "name": "Реагенты  для филиала \"Великолукский\" (5085-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000353",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ce144f22efc7d7654d93937749c206a0",
+      "number": "0357200017626000352",
+      "name": "Реагенты для филиала \"Великолукский\" (5084-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000352",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "89b1a55e8745054ed639809588e466f4",
+      "number": "0357200017626000351",
+      "name": "Реагенты для филиала \"Великолукский\" (5082-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000351",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "721e0a882764f14ccf6be2d7c7ff800f",
+      "number": "0357200017626000350",
+      "name": "Реагенты  для филиала \"Великолукский\" 2 (5083-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000350",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c424f7a5843cc0015a98b73432118f42",
+      "number": "0357200017626000348",
+      "name": "Электроды для электрохирургии одноразовые (5080-А-ГЗ-л)",
+      "customer": "6027013840",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0357200017626000348",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1ca6f4623307f684ccd5e6ca386d7e13",
+      "number": "0371500000326000108",
+      "name": "Поставка кислорода жидкого медицинского",
+      "customer": "7606114224",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0371500000326000108",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0811a5c0efaff79b9cc7a3a57719afd4",
+      "number": "0432200000826003106",
+      "name": "Ц-6772_Закупка медицинских изделий",
+      "customer": "5260136299",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0432200000826003106",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "5d9ac8aa82436af696ab92f72667b16a",
+      "number": "0372200076726000009",
+      "name": "—",
+      "customer": "7810143480",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200076726000009",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1ebd5f02b8f09fc84ad61ab27c89a63a",
+      "number": "0318200057726000011",
+      "name": "\"Поставка творога, сыра и масла сливочного на 2-е полугодие 2026 г.\"",
+      "customer": "2315083692",
+      "date": "11.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318200057726000011",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
       "uid": "326a20a967bcc45a6a6ae779811cbfbc",
       "number": "0150600012626000013",
       "name": "Выполнение работ по благоустройству и уборке общественных территорий населенных пунктов Трубичинского функционального управления Новгородского округа Новгородской области",
@@ -16498,7 +16723,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "11.06.2026 10:26",
-  "total": 1833,
-  "new_count": 34
+  "updated": "12.06.2026 10:15",
+  "total": 1858,
+  "new_count": 25
 }
