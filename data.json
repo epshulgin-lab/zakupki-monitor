@@ -1,6 +1,249 @@
 {
   "items": [
     {
+      "uid": "6cfb1391cfa2e98046f2e96f7045519c",
+      "number": "0325200000326000064",
+      "name": "—",
+      "customer": "3016018337",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0325200000326000064",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "83f9995d9efd3f3c2a47ecfacac763e4",
+      "number": "0358300066626000229",
+      "name": "—",
+      "customer": "6162005765",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0358300066626000229",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "33d89a5b21d41d230baa900ae607c855",
+      "number": "0373100134626000267",
+      "name": "Поставка инструмента и оборудования с механизированным приводом для Рыбинского РГС",
+      "customer": "7733231361",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373100134626000267",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "1cb8370592c579b7014131a3e5d913cb",
+      "number": "0101300000226000051",
+      "name": "Поставка ГСМ на 3 квартал 2026 г.",
+      "customer": "0253016883",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0101300000226000051",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "40f8622ed53238930809873c3024a5ca",
+      "number": "0371500000626000253",
+      "name": "Поставка товаров (Клавиатура, Мышь компьютерная)",
+      "customer": "7603071484",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0371500000626000253",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "416bbe5fdcbdf98a9799991221446c7b",
+      "number": "0342300095826000188",
+      "name": "Поставка медицинских изделий для нейрохирургического отделения №5 (лот 1) для нужд Государственного бюджетного учреждения здравоохранения Самарской области «Самарская городская клиническая больница №1",
+      "customer": "6316019432",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0342300095826000188",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "48cdf5fc38b539547b91b4acaf8b3ad0",
+      "number": "0169300025326000068",
+      "name": "—",
+      "customer": "7411005270",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0169300025326000068",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "2f4452644c9bcbdafe8dcc31e538a900",
+      "number": "0229100000226000151",
+      "name": "Услуги частной охраны (Республика Ингушетия)",
+      "customer": "3445926514",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0229100000226000151",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "ca1574335ed33192614441ba0a5488fe",
+      "number": "0373200039326000002",
+      "name": "Поставка расходного материала для нужд ГАУЗ «СП № 15 ДЗМ» в 2026 г.",
+      "customer": "7717026333",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200039326000002",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "f21e22345126e037b7fa5c0ad37a5e05",
+      "number": "0119200000126010834",
+      "name": "ЗК-№-11096/26 «Препараты противоэпилептические (ЭТОСУКСИМИД)»",
+      "customer": "2466212607",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0119200000126010834",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "299abf5672cef5e028e815f05ff1f40d",
+      "number": "0366200000526000131",
+      "name": "Поставка ламп инсектицидных",
+      "customer": "7130002918",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0366200000526000131",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "880efa3ded21bf53952eef5ccf975e44",
+      "number": "0318200025026000348",
+      "name": "Поставка лекарственных препаратов для медицинского применения (МНН: ДОЦЕТАКСЕЛ, ПАКЛИТАКСЕЛ, ТРАСТУЗУМАБ, ДАКАРБАЗИН, ГЕМЦИТАБИН)",
+      "customer": "2302029673",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318200025026000348",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "734959e760a89caa8684e02da5a7e1eb",
+      "number": "0321200014126000555",
+      "name": "Поставка лекарственных препаратов для медицинского применения",
+      "customer": "2633001661",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0321200014126000555",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "1a57188819135977691748bbc1d3e60a",
+      "number": "0319200069426000425",
+      "name": "—",
+      "customer": "2469003062",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0319200069426000425",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "a65c546cd903ac0a8600a716b5af4d8f",
+      "number": "0119100011426000122",
+      "name": "Поставка мешков для мусора для нужд судов Красноярского края",
+      "customer": "2466073216",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0119100011426000122",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "a2012b113501e6f07489775cfbee535a",
+      "number": "0142200001326013198",
+      "name": "Поставка смазочных материалов",
+      "customer": "6315700776",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0142200001326013198",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "b68a21056537be855f2c475ba435905a",
+      "number": "0813500000126011726",
+      "name": "зз-0016-27908 - 2026 Клининговые услуги на территории стационара",
+      "customer": "1833029581",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0813500000126011726",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "27c5c5538656420f298e84ce0bf85854",
+      "number": "0373200087826001299",
+      "name": "Поставка лекарственного препарата МНН: Кеторолак для нужд ГБУЗ «ММКЦ «Коммунарка» ДЗМ» (повторно)",
+      "customer": "7716099554",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200087826001299",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "dc613d3b8afe94da81d3ef7b5f154796",
+      "number": "0318200065626000567",
+      "name": "Поставка медицинских изделий (Лезвие сагиттальной хирургической пилы, многоразового использования)",
+      "customer": "2311040088",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318200065626000567",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "a26c968e0f8469745e5ce0409db8ec3e",
+      "number": "0818500000826003999",
+      "name": "Содержание автомобильных дорог регионального или межмуниципального значения Краснодарского края и сооружений на них в 2026-2027 годах в Северском муниципальном районе Краснодарского края",
+      "customer": "2308077190",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500000826003999",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "572aa6418d086ae1c76d8e1e188ba964",
+      "number": "0372200150826000016",
+      "name": "Поставка учебно-демонстрационных комплексов для ГБОУ СОШ № 91 в 2026 году",
+      "customer": "7813130369",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200150826000016",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "cdb132d185192548cee50f05c99ae56d",
+      "number": "0813500000126011725",
+      "name": "зз-0016-27461 - 2026 Услуги по кошению травы",
+      "customer": "1821017574",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0813500000126011725",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "0bbab6b46fb785a2302a65c15ae70187",
+      "number": "0309100004126000031",
+      "name": "Диски ГАЗ для легкогрузовых автомобилей",
+      "customer": "1308079710",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0309100004126000031",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "9699250c36a1327f66cebde4532b4edd",
+      "number": "0153300066926000618",
+      "name": "Поставка ноутбука для звукового оборудования",
+      "customer": "5609026170",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0153300066926000618",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "6c29140c6925d1db2118089c65919743",
+      "number": "0849400000226000159",
+      "name": "Приобретение аккумуляторных батарей для нужд \"Сыктывкарского ПСО – филиала ФГКУ «СЗРПСО МЧС России» - поиска и спасания на водных объектах.",
+      "customer": "7802057565",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0849400000226000159",
+      "keyword": "интеллектуальная транспортная система"
+    },
+    {
+      "uid": "064aeaa5192458d0c3a947cb94e3548f",
+      "number": "0372200213526000019",
+      "name": "Выполнение работ по устройству трубной, кабельной канализации и благоустройству на светофорном объекте по адресу: Искровский пр. - ул. Коллонтай",
+      "customer": "7801145804",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000019",
+      "keyword": "ДОДД Санкт-Петербург"
+    },
+    {
+      "uid": "61e9ab793b1f75b4f45a75fa25ba2a3f",
+      "number": "0851200000626004082",
+      "name": "Оказание услуг по мониторингу и анализу инцидентов информационной безопасности ГИС «ИТС НСО»",
+      "customer": "5402570056",
+      "date": "15.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626004082",
+      "keyword": "ГКУ НСО ЦОДД Новосибирск"
+    },
+    {
       "uid": "383d53d0f645a670652e3ed61c383213",
       "number": "0348500002126000066",
       "name": "—",
@@ -16723,7 +16966,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "12.06.2026 10:15",
-  "total": 1858,
-  "new_count": 25
+  "updated": "15.06.2026 12:24",
+  "total": 1885,
+  "new_count": 27
 }
