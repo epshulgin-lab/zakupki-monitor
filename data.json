@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "uid": "c39f2c7b4bc3c4273c5a395d3670fdf3",
+      "number": "0176200005526001267",
+      "name": "Поставка медицинских изделий",
+      "customer": "0105000368",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0176200005526001267",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d86af2f1db1e6079c015979258202771",
+      "number": "0103200008426005411",
+      "name": "Поставка лекарственных препаратов 44РБ-26ЛП",
+      "customer": "0543000797",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103200008426005411",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0aeacd3e9cb571216d0044bd8e61d201",
+      "number": "0103200008426005398",
+      "name": "Поставка химических реактивов",
+      "customer": "0541024104",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103200008426005398",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "bc500422510248a676cd06b586eac900",
+      "number": "0302300048726000705",
+      "name": "Снос самовольной постройки (капитальное железобетонное строение), расположенной по адресу: г.Улан-Удэ, ул.Гагарина между д.39 и д.41",
+      "customer": "0323339440",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0302300048726000705",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d978e464774d43dab4058ae77229d989",
+      "number": "0103200008426005412",
+      "name": "Поставка расходного материала медицинского назначения на 2026г.",
+      "customer": "0560014567",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103200008426005412",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "5f72c488bf1dc8ab1b3c3eb81a9cd65b",
+      "number": "0103200008426005409",
+      "name": "Поставка расходного материала медицинского назначения на 2026г. (трубки дренажные)",
+      "customer": "0560014567",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103200008426005409",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c97524bd70bb7f1ad5d00f420bcf0c89",
+      "number": "0301200052326000077",
+      "name": "Поставка лекарственных препаратов (Глицирризиновая кислота+Фосфолипиды)",
+      "customer": "0275018683",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301200052326000077",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c2a78c2043a5c6fed8f5a56ab4b771b2",
+      "number": "0301000000226000679",
+      "name": "—",
+      "customer": "0274019476",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301000000226000679",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2ab341fbaf88504218013900ccb6b88f",
+      "number": "0301300038126000462",
+      "name": "Капитальный ремонт ожогового отделения стационара 2 этаж по замене оконного блока ГБУЗ РБ ГКБ№1 г. Стерлитамак, расположенного по адресу: РБ г.Стерлитамак, ул. Коммунистическая, 97",
+      "customer": "0268025810",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301300038126000462",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e03d6eb74c71c46295831ee245116106",
+      "number": "0176200005526001266",
+      "name": "Проведение государственного мониторинга и государственного кадастра объектов животного мира, за исключением объектов животного мира, находящихся на особо охраняемых природных территориях федерального ",
+      "customer": "0105055656",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0176200005526001266",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "08e3588dfb128cd5d72eda0498db4542",
+      "number": "0176200005526001265",
+      "name": "Реагенты, используемые для проведения исследований на биохимическом анализаторе Erba XL1000 в КДЛ ГБУЗ РА «АРКОД им.М.Х.Ашхамафа»",
+      "customer": "0105017386",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0176200005526001265",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "8ee95058de323530fdf4ab35f96d09b1",
+      "number": "0376300005326000034",
+      "name": "Модернизация уличного освещения в х.Городской",
+      "customer": "0107009140",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0376300005326000034",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "a9d24455fa8938eee03a8098c3ffed98",
+      "number": "0303200051926000038",
+      "name": "Препараты лекарственные БРОМДИГИДРОХЛОРФЕНИЛБЕНЗОДИАЗЕПИН",
+      "customer": "0562020196",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0303200051926000038",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "37ff6ce94d32272d63ca823c36c7da47",
+      "number": "0302300048726000704",
+      "name": "Снос жилого дома по ул. пос. Аэропорт, д. 17 в Советском районе г. Улан-Удэ",
+      "customer": "0323339440",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0302300048726000704",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2154ae23df90bd009353196863ecb2c7",
+      "number": "0303200051926000039",
+      "name": "Препараты лекарственные ПЕРИЦИАЗИН",
+      "customer": "0562020196",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0303200051926000039",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "86befbdad5ab3d62dde70a152de84ff2",
+      "number": "0176200005526001264",
+      "name": "Реагенты, используемые для проведения исследований на биохимическом анализаторе Erba XL1000 в КДЛ ГБУЗ РА «АРКОД им.М.Х.Ашхамафа»",
+      "customer": "0105017386",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0176200005526001264",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c59cf08154a68e6735ace60e1d9cf126",
+      "number": "0377300003326000147",
+      "name": "—",
+      "customer": "0410001390",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0377300003326000147",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "590b1dac2a871ee9fa5e529761b2cd8e",
+      "number": "0377300003326000148",
+      "name": "—",
+      "customer": "0410001390",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0377300003326000148",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "612e5b97baa36511b7f500c3a5fa6848",
+      "number": "0103300035826000120",
+      "name": "продукты питания",
+      "customer": "0525000515",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103300035826000120",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "565df5f791d49e3180a77cc7ca2e3066",
+      "number": "0102200001626001568",
+      "name": "Выполнение работ по объекту: Реконструкция участков и отдельных сооружений автомобильной дороги 81-ОП-РЗ-81Р-002 \"Улан-Удэ-Романовка-Чита\" 2 этап. Участок км 437 – км 438",
+      "customer": "0326473725",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0102200001626001568",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1cd51b70562eb37fa493a6db5eb8f3cb",
+      "number": "0301600000426000014",
+      "name": "Поставка горюче-смазочных материалов по топливным картам",
+      "customer": "0274150791",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301600000426000014",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "510a513da751b8f18820bae30d565f48",
+      "number": "0103300035826000118",
+      "name": "продукты питания",
+      "customer": "0525000515",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103300035826000118",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c3cb146cde669bac761a14d1f6d6137f",
+      "number": "0301200067526000122",
+      "name": "Выполнение работ по сохранению объекта культурного наследия регионального значения «Дом жилой Тушновых»: «Капитальный ремонт систем пожаротушения и пожарной безопасности административного здания, расп",
+      "customer": "0274136934",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301200067526000122",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "574caaa0927160186c47a845b7142f8b",
+      "number": "0103300035826000121",
+      "name": "продукты питания",
+      "customer": "0525000515",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0103300035826000121",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e52c18f5bfd1cf3f0eef67119afcb114",
+      "number": "0301300051526000215",
+      "name": "—",
+      "customer": "0276006472",
+      "date": "17.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301300051526000215",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "5f210e7868ac6a129e2b69a15b58adae",
+      "number": "0818500006726000030",
+      "name": "Оказание услуг по разработке базовых норм расхода топлива на транспортные средства​",
+      "customer": "2309179043",
+      "date": "16.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000030",
+      "keyword": "ЦОДД Краснодарский край"
+    },
+    {
+      "uid": "3f34cd64c92f8f19c42c7b44be4591f3",
+      "number": "0815500000526008605",
+      "name": "Услуги на выполнение комплекса работ по содержанию (обеспечению работоспособности) комплексов фотовидеофиксации, установленных на территории Чувашской Республики",
+      "customer": "2130221237",
+      "date": "16.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526008605",
+      "keyword": "ЦОБДД Чебоксары"
+    },
+    {
+      "uid": "880e53b0652dc989d6f3338b02c1dc99",
+      "number": "0851200000626004107",
+      "name": "Оказание услуг по сервисной поддержке программного обеспечения Интеллектуальной транспортной системы Новосибирской агломерации как элемента информационной системы в целях создания, развития и эксплуат",
+      "customer": "5402570056",
+      "date": "16.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626004107",
+      "keyword": "ГКУ НСО ЦОДД Новосибирск"
+    },
+    {
       "uid": "994db2eb15bc2a2ea2bfaebb0172d990",
       "number": "0841200000726001165",
       "name": "Поставка запасных частей к автомобилям УАЗ для нужд Нейского филиала ОГБУ «Костромаавтодор»",
@@ -17218,7 +17470,7 @@
       "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "16.06.2026 11:13",
-  "total": 1913,
+  "updated": "17.06.2026 10:58",
+  "total": 1941,
   "new_count": 28
 }
