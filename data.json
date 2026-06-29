@@ -1,6 +1,267 @@
 {
   "items": [
     {
+      "uid": "626d753053935bb036608c69a5a56359",
+      "number": "0172100011126000025",
+      "name": "Приобретение серверного оборудования",
+      "customer": "7841465430",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172100011126000025",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9afa709f8e89e6f66fc127ecf1f32782",
+      "number": "0846600001626000079",
+      "name": "Приобретение в муниципальную собственность Лебедянского муниципального округа Липецкой области Российской Федерации жилых помещений (благоустроенных квартир) в рамках реализации областной адресной про",
+      "customer": "4811002246",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0846600001626000079",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "05aa6354da9b3f38eb55b9044de5fcb4",
+      "number": "0172100008126000072",
+      "name": "Поставка холодильников бытовых для нужд  районных судов города Санкт-Петербурга",
+      "customer": "7825117637",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172100008126000072",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2398640d52151a4759e2e445f81d1321",
+      "number": "0326300006726000017",
+      "name": "—",
+      "customer": "3128039159",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0326300006726000017",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "77b010293963382850c615fdb82ac286",
+      "number": "0132600033926000025",
+      "name": "Строительство специализированной площадки для размещения загрязненного снега",
+      "customer": "5229014429",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600033926000025",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1e4d8595ce2b10ab4f65d8be8aa5e4f1",
+      "number": "0356300042226000196",
+      "name": "ПОСТАВКА ЛЕКАРСТВЕННЫХ ПРЕПАРАТОВ ДЛЯ МЕДИЦИНСКОГО ПРИМЕНЕНИЯ (Инсулин лизпро двухфазный)",
+      "customer": "5904101322",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0356300042226000196",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "532b0c7e519c8355a347c7cf6cc325e9",
+      "number": "0817200000326010328",
+      "name": "Выполнение работ по ремонту ул. Строителей г. Белокуриха от ПК-14 до ПК-19+91",
+      "customer": "2203004607",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0817200000326010328",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "6039a14ea3368be608145aabebac7dc6",
+      "number": "0134300008526000195",
+      "name": "Поставка инструментов и прочего инвентаря",
+      "customer": "3801166733",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0134300008526000195",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3d112c1eb1a9522badf637864edb8031",
+      "number": "0351600002426000076",
+      "name": "—",
+      "customer": "5406818477",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351600002426000076",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d2861413d06d0e64d9acb360f75bdd9b",
+      "number": "0356500007026000036",
+      "name": "—",
+      "customer": "5921034926",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0356500007026000036",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e89cb797263afb820012231d1f5943df",
+      "number": "0362300131726000099",
+      "name": "Поставка моторных, трансмиссионных масел и специальных технических жидкостей для служебного автотранспорта МБУ БМО СО \"АДМИНИСТРАТИВНО-ТРАНСПОРТНОЕ УПРАВЛЕНИЕ\"",
+      "customer": "6683007257",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0362300131726000099",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "db86130c5ebdb1114031706f033fcf61",
+      "number": "0167300000526000466",
+      "name": "ЗК-0246/26 Поставка материалов для частичного благоустройства сквера Нефтяников в городе Тюмени (в рамках границ проектирования 1 этапа благоустройства)",
+      "customer": "7202092511",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0167300000526000466",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "52ae6c5d1242f388fea4a3a40cefea81",
+      "number": "0114500000826001431",
+      "name": "Поставка расходных материалов . Лот 7",
+      "customer": "0601011825",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0114500000826001431",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4d7140b6482a42f04e188ac7b32c9177",
+      "number": "0194200000526004141",
+      "name": "Поставка стоматологического расходного материала ",
+      "customer": "2015037960",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0194200000526004141",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "813b9ea2cb76099a668324e2ec2e355b",
+      "number": "0376100002726000025",
+      "name": "Поставка зачетных книжек, студенческих билетов и прочей полиграфической продукции",
+      "customer": "0105014177",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0376100002726000025",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "89ae20ddb23f5cbb652c2baca6293d26",
+      "number": "0869200000226005535",
+      "name": "Оказание услуг по восстановлению работоспособности аппарата с заменой запасных частей Видеогастроскоп EG-530WR (инв. № 41012404155, сер. 9G361К149, 2020 г.в.) для нужд ГБУЗ «Районная больница г. Куса»",
+      "customer": "7434002268",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0869200000226005535",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "285a483aefef6effd4dfa5dce73c7178",
+      "number": "0869200000226005536",
+      "name": "Поставка фанеры для нужд ГБУ ДО \"Дом юношеского технического творчества\"",
+      "customer": "7450012489",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0869200000226005536",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4ce254717ca4d30db853b790506233d9",
+      "number": "0341300010626000108",
+      "name": "Поставка медицинских изделий (пакет для сбора, хранения и транспортировки медицинских отходов, контейнер для медотходов) для нужд ОГБУЗ Нерехтская ЦРБ",
+      "customer": "4405001761",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0341300010626000108",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "6efeb4748c97c178edbe6e2722c82895",
+      "number": "0853500000326004682",
+      "name": "на поставку бумаги для офисной техники",
+      "customer": "5631020738",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0853500000326004682",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "293d281ffe5461ffdc61cb8263eda736",
+      "number": "2032500000526000003",
+      "name": "—",
+      "customer": "5260073850",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=2032500000526000003",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "639566a37505321bda8c69edf2580d48",
+      "number": "0307300051426000152",
+      "name": "Поставка лекарственных препаратов (Октреотид)",
+      "customer": "1116002062",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0307300051426000152",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b8d8c345eb45ef4e08a4b3978d1dff20",
+      "number": "0128200000126003935",
+      "name": "Поставка лекарственных препаратов для медицинского применения",
+      "customer": "3329025565",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0128200000126003935",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "899ebed7c57b1d0a7e7dcf7d70c4095e",
+      "number": "0114500000826001430",
+      "name": "Поставка расходных материалов. Лот 3",
+      "customer": "0601011825",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0114500000826001430",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9f52da6c3727f71792302394f182756e",
+      "number": "0323100000426000147",
+      "name": "—",
+      "customer": "2801031068",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0323100000426000147",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e20f53e6b89157696da013120e63bb5c",
+      "number": "0167300000526000465",
+      "name": "ЗК-0250/26 Оказание услуг по устранению инцидентов на муниципальных объектах электроснабжения",
+      "customer": "7203204250",
+      "date": "29.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0167300000526000465",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "0df0991222846ee6e65807958fdc23e1",
+      "number": "0373200082126000288",
+      "name": "Выполнение работ по устройству ограждений и его элементов на объекте ГКУ ЦОДД по адресу: г. Москва, пересечение Батюнинской ул., д. 1 и Юго-Восточной хорды\n",
+      "customer": "7710350884",
+      "date": "26.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000288",
+      "keyword": "ГКУ ЦОДД Москва"
+    },
+    {
+      "uid": "d0c7b476c604004a07bd122240c23cc2",
+      "number": "0132600032726000494",
+      "name": "Выполнение работ по модернизации светофорных объектов на ул. Ванеева (на участке около д. № 121 А и д. №205) г. Нижнего Новгорода в целях внедрения интеллектуальной транспортной системы в рамках реали",
+      "customer": "5260345359",
+      "date": "26.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032726000494",
+      "keyword": "ЦОДД Нижний Новгород"
+    },
+    {
+      "uid": "c0b049eced6f523183581421d596d894",
+      "number": "0331200032726000024",
+      "name": "—",
+      "customer": "3663048147",
+      "date": "26.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0331200032726000024",
+      "keyword": "ЦОДД Воронеж"
+    },
+    {
+      "uid": "f975519bb7d8bc87e8dd8de0737c7229",
+      "number": "0331200032726000023",
+      "name": "—",
+      "customer": "3663048147",
+      "date": "26.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0331200032726000023",
+      "keyword": "ЦОДД Воронеж"
+    },
+    {
       "uid": "48d452f784798747ab38e81a64999f90",
       "number": "0194100001426000013",
       "name": "—",
@@ -17738,270 +17999,9 @@
       "date": "26.02.2026",
       "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626000980",
       "keyword": "ГКУ НСО ЦОДД Новосибирск"
-    },
-    {
-      "uid": "f7b4fc3fd2e51bf434d90ff34a8ae784",
-      "number": "0351300298626000037",
-      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки пластическими материалами с повышенной износоустойчивостью на проезжей части в городе Новосибирск",
-      "customer": "5407070339",
-      "date": "30.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000037",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "eb07a63b3bc67e14e001e8aee9905724",
-      "number": "0351300298626000032",
-      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки пластическими материалами с повышенной износоустойчивостью вблизи общеобразовательных организаций и подходов к ним (школьные маршруты) в ",
-      "customer": "5407070339",
-      "date": "20.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000032",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "2c9e0445fbdfa4aad6073ef493f6fb1f",
-      "number": "0351300298626000033",
-      "name": "Предоставление неисключительных прав использования (лицензии) программного обеспечения Kaspersky Endpoint Security",
-      "customer": "5407070339",
-      "date": "20.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000033",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "c6659ea9eb32b5caf349d7e45fb699a4",
-      "number": "0351300298626000031",
-      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки пластическими материалами с повышенной износоустойчивостью на проезжей части в городе Новосибирск",
-      "customer": "5407070339",
-      "date": "20.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000031",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "0c5d95b24782322b1ca026b5532d605b",
-      "number": "0351300298626000036",
-      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки пластическими материалами с повышенной износоустойчивостью вблизи общеобразовательных организаций и подходов к ним (школьные маршруты) в ",
-      "customer": "5407070339",
-      "date": "27.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000036",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "271a005d3c2a9f74e0c16cff8f6f9a4e",
-      "number": "0351300298626000035",
-      "name": "—",
-      "customer": "5407070339",
-      "date": "27.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000035",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "d5809d51b6ab5210fde7b085c942927e",
-      "number": "0351300298626000029",
-      "name": "Поставка светильников светодиодных",
-      "customer": "5407070339",
-      "date": "16.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000029",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "a1bf6bd129d53e86b3042208ca84d610",
-      "number": "0351300298626000034",
-      "name": "Выполнение работ по оснащению платной парковки на улично-дорожной сети техническими средствами автоматической фотовидеофиксации",
-      "customer": "5407070339",
-      "date": "25.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000034",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "c27bb93d00c87511bd26b9b8b4b0e446",
-      "number": "0351300298626000030",
-      "name": "Поставка многофункциональных устройств (МФУ)",
-      "customer": "5407070339",
-      "date": "17.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000030",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "f5904618252afc8b2b3757f51800342f",
-      "number": "0351300298626000027",
-      "name": "Выполнение работ по нанесению горизонтальной дорожной разметки пластическими материалами с повышенной износоустойчивостью в местах концентрации ДТП в г. Новосибирске",
-      "customer": "5407070339",
-      "date": "12.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000027",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "94059f7b87273647b1443e75a1ded734",
-      "number": "0351300298626000028",
-      "name": "Оказание услуг по обязательному страхованию гражданской ответственности владельцев транспортных средств (ОСАГО)",
-      "customer": "5407070339",
-      "date": "13.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000028",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "cce8761b6c1bce6b38a24325dca74089",
-      "number": "0351300298626000026",
-      "name": "Оказание услуг по предоставлению в аренду мобильных туалетных кабин и их комплексному обслуживанию на конечных остановочных пунктах города Новосибирска",
-      "customer": "5407070339",
-      "date": "11.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000026",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "f9bb3fcbe5f7fa5e2d54a24d2dea3f10",
-      "number": "0351300298626000025",
-      "name": "Оказание услуг по техническому обслуживанию сплит-систем",
-      "customer": "5407070339",
-      "date": "10.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000025",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "9dd756b9d76da614df02d1ede5e9c09b",
-      "number": "0351300298626000021",
-      "name": "Оказание услуг по изготовлению и поставке информационных щитов",
-      "customer": "5407070339",
-      "date": "05.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000021",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "104d8cee5de6637cd7f2d920a40838c2",
-      "number": "0351300298626000022",
-      "name": "Установка и замена дорожных знаков",
-      "customer": "5407070339",
-      "date": "05.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000022",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "d0b80a8f7354210366b0753070f58c5d",
-      "number": "0351300298626000023",
-      "name": "Установка и замена дорожных знаков",
-      "customer": "5407070339",
-      "date": "05.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000023",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "a61d9590d24925b49dcb65ad0e8ba526",
-      "number": "0351300298626000020",
-      "name": "Выполнение работ по аварийно-восстановительному ремонту участка теплотрассы от тепловой камеры до здания МБУ «ГЦОДД»",
-      "customer": "5407070339",
-      "date": "03.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000020",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "e834fea7efb159da31e52d1266d220d7",
-      "number": "0351300298626000019",
-      "name": "Предоставление неисключительных прав использования (лицензии) программного обеспечения (Kaspersky Endpoint Security)",
-      "customer": "5407070339",
-      "date": "02.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000019",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "6147145cc3b97917eae2f4444e2cba57",
-      "number": "0351300298626000018",
-      "name": "Выполнение работ по ремонту коридора 1 этажа, входной группы МБУ «ГЦОДД»",
-      "customer": "5407070339",
-      "date": "17.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000018",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "9cc02b5fb83589b57fe3e3e2ad700c89",
-      "number": "0351300298626000024",
-      "name": "—",
-      "customer": "5407070339",
-      "date": "05.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000024",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "9964053d338508106bdf8da3d7fab19e",
-      "number": "0351300298626000017",
-      "name": "Поставка запасных частей для грузовых автомобилей КАМАЗ, МАЗ",
-      "customer": "5407070339",
-      "date": "17.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000017",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "98f18841eb06834c74fd91c8a8d76cf9",
-      "number": "0351300298626000015",
-      "name": "Поставка запасных частей для грузовых автомобилей УАЗ",
-      "customer": "5407070339",
-      "date": "12.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000015",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "6bae46aae1c56acbf15b36f8977c6dac",
-      "number": "0351300298626000007",
-      "name": "Поставка моторных масел и технических жидкостей для автомобилей",
-      "customer": "5407070339",
-      "date": "30.01.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000007",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "07a999509b29c7b388ff75db9bd0eebb",
-      "number": "0351300298626000012",
-      "name": "Поставка светового оборудования",
-      "customer": "5407070339",
-      "date": "06.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000012",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "9a0ec332c2ac8718784c4bc5a6e05e88",
-      "number": "0351300298626000016",
-      "name": "Оказание услуг по адаптации и сопровождению экземпляров систем КонсультантПлюс для отдела РДСиПД на 2026 год",
-      "customer": "5407070339",
-      "date": "12.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000016",
-      "keyword": "ГЦОДД Новосибирск (городской)"
-    },
-    {
-      "uid": "888fee0e86042b97bf53ac115455e762",
-      "number": "0131200001026001287",
-      "name": "2026-01574 - Поставка специализированной техники ( автогидроподъемник)",
-      "customer": "3663048147",
-      "date": "26.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0131200001026001287",
-      "keyword": "ЦОДД Воронеж"
-    },
-    {
-      "uid": "10aae7a37b58740c604265c933026e59",
-      "number": "0331200032725000014",
-      "name": "—",
-      "customer": "3663048147",
-      "date": "23.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0331200032725000014",
-      "keyword": "ЦОДД Воронеж"
-    },
-    {
-      "uid": "cf8c8a351fc1ef5325758cf36bc6f53d",
-      "number": "0331200032725000013",
-      "name": "—",
-      "customer": "3663048147",
-      "date": "23.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0331200032725000013",
-      "keyword": "ЦОДД Воронеж"
-    },
-    {
-      "uid": "de777ecd5737f020a21945ce50bb6498",
-      "number": "0131300000625002943",
-      "name": "Поставка мебельной продукции",
-      "customer": "3663048147",
-      "date": "15.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0131300000625002943",
-      "keyword": "ЦОДД Воронеж"
     }
   ],
-  "updated": "26.06.2026 09:29",
+  "updated": "29.06.2026 11:01",
   "total": 2000,
-  "new_count": 31
+  "new_count": 29
 }
