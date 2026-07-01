@@ -1,6 +1,267 @@
 {
   "items": [
     {
+      "uid": "cb7738ddf961ac22628447590ce1d4f3",
+      "number": "0373400010926000593",
+      "name": "Поставка лекарственных препаратов (МНН: ФТОРТИАЗИНОН)",
+      "customer": "7714042070",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373400010926000593",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "dde16f3ba4f06b4d791a665406390a14",
+      "number": "0112200000826003223",
+      "name": "Поставка продуктов питания (молоко) для нужд ГБУЗ РТ \"Реснаркодиспансер\" на 2026 г.",
+      "customer": "1701024682",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0112200000826003223",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "77fe2c1d5f8cfb78af06dcf855c0401f",
+      "number": "9800600000426000035",
+      "name": "Ремонт кабинета и замена дверных блоков в здании администрации",
+      "customer": "3516004653",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=9800600000426000035",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "07e3b1161a34ddea3c9140565bbe4c55",
+      "number": "0173200013026000004",
+      "name": "Поставка МФУ для нужд ОПОП Бабушкинского района города Москвы",
+      "customer": "7716224149",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173200013026000004",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "97c619d31a4c088cc456ebc65903d8af",
+      "number": "0351100001126000085",
+      "name": "—",
+      "customer": "5423101288",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351100001126000085",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2e37efd8d8aa4ffaba83ecd233918038",
+      "number": "0819300031926000295",
+      "name": "Оказание автотранспортных услуг (услуг такси) для выезда в населенные пункты Енисейского муниципального округа",
+      "customer": "2454032656",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0819300031926000295",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3ad8fa573758dc2bb5494e81731a25a0",
+      "number": "0318200077026000356",
+      "name": "Поставка лекарственных препаратов для медицинского применения (МНН –Аминокислоты для парентерального питания+прочие препараты [жировые эмульсии для парентерального питания+декстроза+минералы])",
+      "customer": "2320073805",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0318200077026000356",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c5456f9eb2e54b02f9d930cb80d8e208",
+      "number": "0360500000526000101",
+      "name": "Оказание услуг по проверке защитной эффективности боксов микробиологической безопасности (БМБ)",
+      "customer": "6452146729",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0360500000526000101",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4307d764780a38e166affaf75e2796c9",
+      "number": "0365300003526000044",
+      "name": "—",
+      "customer": "7010000764",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0365300003526000044",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "fdeb15c8354b2b9f6be21127031a57bd",
+      "number": "0819500000526000095",
+      "name": "—",
+      "customer": "2466303702",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0819500000526000095",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3d96f01821f2e85f253d42fb8704c71e",
+      "number": "0119600013526000236",
+      "name": "Выполнение работ по замене деревянных оконных блоков на оконные блоки из ПВХ-профилей в здании МБОУ ООШ №9 г. Канска.",
+      "customer": "2450013356",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0119600013526000236",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d8f2a6fe28a550db66dfe9041dc64d30",
+      "number": "0112200000826003221",
+      "name": "Приобретение строительных товаров 2026 год",
+      "customer": "1701042138",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0112200000826003221",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b9f2452a1410c484fc83caab3ea4b675",
+      "number": "0351100002926001053",
+      "name": "Поставка медицинских изделий (Набор для доставки кардиохирургического окклюдера)",
+      "customer": "5408106348",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351100002926001053",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e86f4b279648312dee53af1ead6a29c7",
+      "number": "0172300011726000003",
+      "name": "Выполнение работ по благоустройству территории (ремонт асфальтового покрытия)",
+      "customer": "7827010015",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0172300011726000003",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e128254dbb7dbebd2fbf6cd536a04b98",
+      "number": "0865200000326000841",
+      "name": "Поставка кондиционера бытового",
+      "customer": "7017172339",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0865200000326000841",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3bdc278c4f5c6d6114a99dbc6839b86f",
+      "number": "0380600002226000034",
+      "name": "—",
+      "customer": "1903029161",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0380600002226000034",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "f527a1f31ee0220b0286ca0fee77def3",
+      "number": "0348200063726000597",
+      "name": "Поставка лекарственных препаратов в 2026 году (лот 209)",
+      "customer": "5074013229",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0348200063726000597",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "014eb10efa0035025d47dad8f42c6a88",
+      "number": "0373200074826000651",
+      "name": "Поставка кожных степлеров для нужд ГКБ №1 им. Н.И. Пирогова",
+      "customer": "7706055854",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200074826000651",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e3cde0d9a56c0719b9678e099835b0df",
+      "number": "0351100001126000084",
+      "name": "—",
+      "customer": "5423101288",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351100001126000084",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2d0261657b1020a5c953eeff43915ce0",
+      "number": "0848300047126000273",
+      "name": "Поставка резервного оборудования (клапаны)",
+      "customer": "5009005122",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0848300047126000273",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "2a4d3a0d8fecce21c2dbc02bbe28cbcf",
+      "number": "0372200224026000008",
+      "name": "—",
+      "customer": "7810215110",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200224026000008",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b34dfdeae7b0fc0d17b3d9cf223069a5",
+      "number": "0329300234926000025",
+      "name": "—",
+      "customer": "3409004761",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0329300234926000025",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4e569e696d616aa6381831f11b49137a",
+      "number": "0310200000326002462",
+      "name": "Поставка оборудования для оснащения образовательных организаций, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, в рамках регионального проекта «Подд",
+      "customer": "1515906542",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0310200000326002462",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "fd2b9d1e168ca41667b71a43fcc2bc7d",
+      "number": "0317100000226000031",
+      "name": "—",
+      "customer": "2221067818",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0317100000226000031",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d20a28c46d645de0bf27dc35e6766b1e",
+      "number": "0301300063626000164",
+      "name": "Оказание услуг по техническому обслуживанию медицинского оборудования и техники на 2 полугодие 2026г.",
+      "customer": "0220002099",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0301300063626000164",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "dc9259af3ae3796929d2e1305609156d",
+      "number": "0373200082126000294",
+      "name": "Оказание услуг по техническому обслуживанию и ремонту шасси прицепов в течение 728 календарных дней",
+      "customer": "7710350884",
+      "date": "30.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000294",
+      "keyword": "ГКУ ЦОДД Москва"
+    },
+    {
+      "uid": "56cf8a1a5f59a18abdc3324e22dce8a0",
+      "number": "0373200082126000292",
+      "name": "Поставка форменной одежды для службы перекрытий",
+      "customer": "7710350884",
+      "date": "30.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200082126000292",
+      "keyword": "ГКУ ЦОДД Москва"
+    },
+    {
+      "uid": "ae99b017242d88568cdcd0d7195c3d18",
+      "number": "0372200213526000022",
+      "name": "Выполнение работ по установке новых ТСОДД, а также демонтажу и перестановке существующих ТСОДД на улично-дорожной сети в Василеостровском, Выборгском, Кировском, Красногвардейском, Красносельском, Мос",
+      "customer": "7801145804",
+      "date": "30.06.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200213526000022",
+      "keyword": "ДОДД Санкт-Петербург"
+    },
+    {
+      "uid": "42d7f22d9c4e563b485f03a8f5ae10cb",
+      "number": "0351300298626000093",
+      "name": "Выполнение работы по установке остановочных павильонов общественного транспорта",
+      "customer": "5407070339",
+      "date": "01.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000093",
+      "keyword": "ГЦОДД Новосибирск"
+    },
+    {
       "uid": "a9fc0618de2bb2a2bd0f270ce5797f25",
       "number": "0318300611426000100",
       "name": "—",
@@ -17738,270 +17999,9 @@
       "date": "28.03.2025",
       "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032725000316",
       "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "536d04959017661130f15120f149162b",
-      "number": "0132600032725000215",
-      "name": "Выполнение работ по разработке проектов организации дорожного движения на период эксплуатации дорог Канавинского района города Нижнего Новгорода",
-      "customer": "5260345359",
-      "date": "14.03.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032725000215",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "c3b7dcfa0da87b63a7f8e251fdab502d",
-      "number": "0132600032724001318",
-      "name": "Поставка эвакуатора со стационарной платформой и КМУ (краново-манипуляторной установкой) для нужд МКУ «ЦОДД».",
-      "customer": "5260345359",
-      "date": "25.12.2024",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032724001318",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "d6c1a66ff168bc4b87a5106037183712",
-      "number": "0132600032724001236",
-      "name": "Поставка ГСМ для нужд МКУ «ЦОДД»",
-      "customer": "5260345359",
-      "date": "05.12.2024",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032724001236",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "b8ff68729e9ec9937732bd9a45a2407a",
-      "number": "0132600032724000012",
-      "name": "Выполнение работ по модернизации светофорных объектов на пр. Гагарина (на участке от ул. Горной до ул. Ларина) г. Нижнего Новгорода в целях внедрения интеллектуальной транспортной системы в рамках реа",
-      "customer": "5260345359",
-      "date": "08.05.2024",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032724000012",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "59fafe4d7adde954c828f434a8df2078",
-      "number": "0132600032724000027",
-      "name": "Выполнение работ по модернизации светофорных объектов на пр. Ленина г. Нижнего Новгорода в целях внедрения интеллектуальной транспортной системы в рамках реализации федерального проекта «Общесистемные",
-      "customer": "5260345359",
-      "date": "13.05.2024",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032724000027",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "be682e9f75cb624a92dd1dee4b551261",
-      "number": "0132600032724000026",
-      "name": "Выполнение работ по модернизации светофорных объектов на выполнение работ по модернизации светофорных объектов на Молодежном пр. \n(от ул. Краснодонцев до ул. Красных Партизан)  г. Нижнего Новгорода в ",
-      "customer": "5260345359",
-      "date": "13.05.2024",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0132600032724000026",
-      "keyword": "МКУ ЦОДД Нижний Новгород"
-    },
-    {
-      "uid": "8438f8602c14d2370ef0668da35208c5",
-      "number": "0815500000526003139",
-      "name": "Услуги на выполнение комплекса работ по содержанию (обеспечению работоспособности) комплексов фотовидеофиксации, установленных на территории Чувашской Республики",
-      "customer": "2130221237",
-      "date": "17.03.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526003139",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "7aeb82707e9f629c5a3d2467dcccb954",
-      "number": "0815500000526001817",
-      "name": "Передислокация комплексов фотовидеофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "20.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526001817",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "ee20ded3111373e780a39aceac18c6fe",
-      "number": "0815500000526001640",
-      "name": "Поставка мобильных комплексов фотовидеофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "17.02.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526001640",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "1ba0daeb0c6abb9096e140156cb291b8",
-      "number": "0815500000526000305",
-      "name": "Предоставление услуг связи по передаче информации по проводным телекоммуникационным сетям стационарных комплексов автоматической фотофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "22.01.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526000305",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "e01ac6fc8bf0596220446ce1a04e2107",
-      "number": "0815500000526000238",
-      "name": "Предоставление услуг связи по передаче информации по беспроводным телекоммуникационным сетям со стационарных комплексов автоматической фотовидеофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "21.01.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526000238",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "79946466f66a4d6b0325b26d4fa63a8d",
-      "number": "0815500000526000239",
-      "name": "Предоставление услуг связи по передаче информации стационарных комплексов автоматической фотофиксации нарушений ПДД РФФ",
-      "customer": "2130221237",
-      "date": "21.01.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526000239",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "5e0d2af3d38d174ba026d86442348dbd",
-      "number": "0815500000526000226",
-      "name": "Оказание услуг по техническому сопровождению подсистемы защиты информации информационной системы нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "20.01.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526000226",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "58123d8b932638f069ea43ebe2e533ba",
-      "number": "0815500000525016987",
-      "name": "Бензин автомобильный АИ-92 экологического класса К5 (розничная реализация), \nбензин автомобильный АИ-95 экологического класса К5 (розничная реализация),\nтопливо дизельное летнее экологического класса ",
-      "customer": "2130221237",
-      "date": "25.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016987",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "49630e5a4be4015f3b544e5fb6b6adb4",
-      "number": "0815500000525016944",
-      "name": "Бензин автомобильный АИ-95 экологического класса К5 (розничная реализация)",
-      "customer": "2130221237",
-      "date": "24.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016944",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "7923a1ab7010aaf0478c3cc95a5c44ae",
-      "number": "0815500000525016848",
-      "name": "Предоставление услуг связи по передаче информации по проводным телекоммуникационным сетям стационарных комплексов автоматической фотофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "23.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016848",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "8709371332252f18d8a6c9995b116b2f",
-      "number": "0815500000525016849",
-      "name": "Предоставление услуг связи по передаче информации по беспроводным телекоммуникационным сетям со стационарных комплексов автоматической фотовидеофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "23.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016849",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "bab582dbc58f97fabc14ce7dc3c38f13",
-      "number": "0815500000525016866",
-      "name": "Предоставление услуг связи по передаче информации стационарных комплексов автоматической фотофиксации нарушений ПДД РФФ",
-      "customer": "2130221237",
-      "date": "23.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016866",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "7caa6e5b7c883c56176d43e188b72464",
-      "number": "0815500000525016789",
-      "name": "Оказание услуг по техническому сопровождению подсистемы защиты информации информационной системы нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "22.12.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525016789",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "84001a7d81e210db29805e7819ff16fe",
-      "number": "0815500000525015242",
-      "name": "Развитие автоматизированной системы фиксации нарушений ПДД РФ на территории Чувашской Республики",
-      "customer": "2130221237",
-      "date": "19.11.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525015242",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "195b3c7c96dffbee18a53da3fb1403c4",
-      "number": "0815500000525013860",
-      "name": "Оказание услуг по обеспечению безопасности информации, обрабатываемой в учреждении",
-      "customer": "2130221237",
-      "date": "22.10.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525013860",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "1cbb42fd07e29522de4e291a1f68026a",
-      "number": "0815500000525013528",
-      "name": "Предоставление услуг связи по передаче информации по проводным телекоммуникационным сетям стационарных комплексов автоматической фотофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "15.10.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525013528",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "90de7b8f561cbac02e4d05ef81f03ffe",
-      "number": "0815500000525012924",
-      "name": "Бензин автомобильный АИ-95 экологического класса не ниже К5 (розничная реализация)",
-      "customer": "2130221237",
-      "date": "30.09.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525012924",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "dbb7b7f146e27db9828f5583447a4142",
-      "number": "0815500000525011295",
-      "name": "Услуги на выполнение комплекса работ по содержанию (обеспечению работоспособности) комплексов фотовидеофиксации, установленных на территории Чувашской Республики",
-      "customer": "2130221237",
-      "date": "18.08.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525011295",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "106c25f4f02d02b946ce6e5eb83da981",
-      "number": "0815500000525011566",
-      "name": "Поставка бумаги для офисной техники белой",
-      "customer": "2130221237",
-      "date": "22.08.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525011566",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "c91045dac8aabe79e3bdb8c6596f5ac4",
-      "number": "0815500000525008322",
-      "name": "Предоставление услуг связи по передаче информации по проводным телекоммуникационным сетям стационарных комплексов автоматической фотофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "16.06.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525008322",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "081ca65be69d459e9dd7a0f424e049f4",
-      "number": "0815500000525004664",
-      "name": "Выполнение работ по развитию автоматизированной системы весового и габаритного контроля транспортных средств путем проектирования, модернизации и капитального ремонта элементов обустройства автомобиль",
-      "customer": "2130221237",
-      "date": "04.04.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525004664",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "ee0c99c3b0c89465cc3d122b3cd5a5a2",
-      "number": "0815500000525006681",
-      "name": "Услуги на выполнение комплекса работ по содержанию (обеспечению работоспособности) комплексов фотовидеофиксации, установленных на территории Чувашской Республики",
-      "customer": "2130221237",
-      "date": "13.05.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525006681",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
-    },
-    {
-      "uid": "af5152d95c1800cb8eed711ccd684ef2",
-      "number": "0815500000525006727",
-      "name": "Передислокация комплексов фотовидеофиксации нарушений ПДД РФ",
-      "customer": "2130221237",
-      "date": "13.05.2025",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000525006727",
-      "keyword": "ЦОБДД Чебоксары (Чувашия)"
     }
   ],
-  "updated": "30.06.2026 09:37",
+  "updated": "01.07.2026 09:47",
   "total": 2000,
-  "new_count": 27
+  "new_count": 29
 }
