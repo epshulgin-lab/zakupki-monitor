@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "uid": "dc6db9abb4d4ffe810a4c61550e2646d",
+      "number": "0157200000326000787",
+      "name": "Автомобиль легковой (Регистрационный номер: 834-А-ГЗ)",
+      "customer": "6008000620",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0157200000326000787",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9fee249f05049ab4268cb4b9b2e28515",
+      "number": "0811300008326000437",
+      "name": "Оказание услуг по организации питания обучающихся в общеобразовательных учреждениях в 2026-2027 годах",
+      "customer": "1660022813",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0811300008326000437",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "771f06473940d61ebe9c2be10f95e247",
+      "number": "0184200000626000625",
+      "name": "Поставка лекарственного препарата на 2027 год «Ривароксабан» за счет средств окружного бюджета в пользу граждан в целях их социального обеспечения",
+      "customer": "2983007268",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0184200000626000625",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "591a90cfa4d5943c320fd82b355206b3",
+      "number": "0317100025126000022",
+      "name": "Оказание услуг по перевозке пассажиров и багажа по заказам в 2026 году",
+      "customer": "2225003156",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0317100025126000022",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "67609a804c9843370f51a695e979e427",
+      "number": "0169300000126001096",
+      "name": "26-125593 Выполнение работ по благоустройству пешеходной зоны по проспекту Победы от улицы Чичерина до улицы 40-летия Победы в Калининском районе города Челябинска (изготовление и установка перголы)",
+      "customer": "7447318163",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0169300000126001096",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "4c30d97af2f103e957079812f5794e57",
+      "number": "0371500000426000188",
+      "name": "—",
+      "customer": "7606118356",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0371500000426000188",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "21661f728dc0cb266c82861fa00154fb",
+      "number": "0321200008226000020",
+      "name": "Поставка продуктов питания",
+      "customer": "2610005853",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0321200008226000020",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1c2a13466b692efaf0cf487c79044419",
+      "number": "0162300003126000006",
+      "name": "Выполнение работ по разработке проектов организации работ по сносу аварийных объектов недвижимого имущества, расположенных на территории г. Каменска-Уральского Свердловской области",
+      "customer": "6612001428",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0162300003126000006",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "9f55b56bc815f6b1832b0bf3c3d5083c",
+      "number": "0373100041026000876",
+      "name": "Выполнение работ по установке (монтажу) инженерных систем для подключения линейных ускорителей Varian в помещениях 0Елт011, 0Елт012 ФГБУ «НМИЦ ДГОИ им. Дмитрия Рогачева» Минздрава России",
+      "customer": "7728008953",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373100041026000876",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "f730fe68efad78cd128a0ef6a2718550",
+      "number": "0124200000626004868",
+      "name": "Поставка изделий медицинского назначения (комплект белья акушерского)",
+      "customer": "2907002420",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0124200000626004868",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "521dd8f28e6b8a6112f77485e5ad8a2f",
+      "number": "0367100005926000259",
+      "name": "Поставка (Дрель/пила хирургическая универсальная, с питанием от перезаряжаемой аккумуляторной батареи",
+      "customer": "5502018378",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0367100005926000259",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d8458dcb8059e20969f3f0c41bdb8f11",
+      "number": "0373200188026000268",
+      "name": "Закупка лекарственных препаратов ЖНВЛП (МНН: Натрия гидрокарбонат)",
+      "customer": "7703027320",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200188026000268",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "d80058c6e294dcf2f934fd5e0916ddfe",
+      "number": "0372200278526000055",
+      "name": "Оказание услуг по предоставлению лицензий на право использовать средства виртуализации для государственных нужд Санкт-Петербурга",
+      "customer": "7842444610",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0372200278526000055",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3bbc452a27e410fe25ae70a422ae0a0a",
+      "number": "0334300228226000181",
+      "name": "Поставка лекарственного препарата для медицинского применения Альбумин человека",
+      "customer": "3820001261",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0334300228226000181",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ffe8630ee10b16a0a1c014a7d3c4be64",
+      "number": "0173100017726000014",
+      "name": "Поставка компьютерной техники",
+      "customer": "7707319108",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0173100017726000014",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b964624edd66db6279276b23306a4979",
+      "number": "0151400000826000197",
+      "name": "Оказание услуг по ремонту служебных автомобилей (г.Красноярск)",
+      "customer": "5406827231",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0151400000826000197",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "84a76eea52f65bf8248a2cbbca9da5ab",
+      "number": "0167100000126000003",
+      "name": "Поставка частей и принадлежностей печатного оборудования (картриджей) для нужд УФНС России по Тюменской области и подведомственных налоговых органов в сфере ИКТ",
+      "customer": "7204087130",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0167100000126000003",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "b2e1dd7441ad7dadafccfd1b2b9b32c0",
+      "number": "0328300032826000530",
+      "name": "Поставка объемно-декоративной конструкции (Топиарной композиции)",
+      "customer": "3329058955",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0328300032826000530",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "912032fc2dfeed551bf6aa88fb4d10e0",
+      "number": "0813500000126013801",
+      "name": "зз-0015-31767 - 2026 Щебень",
+      "customer": "1841101961",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0813500000126013801",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "3f68deb7d591a870f7560b65f3800f33",
+      "number": "0164600003326000038",
+      "name": "Поставка материалов (комплектующие) для хозяйственных нужд МКУ Сосновского муниципального округа.",
+      "customer": "6818001414",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0164600003326000038",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ca38832510c1c2d2d73974995b3c249b",
+      "number": "0351300256826000242",
+      "name": "Поставка реактивов",
+      "customer": "5423101256",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300256826000242",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "ba9356bf980c97aab96073d02f8b2b2f",
+      "number": "0124200000626004872",
+      "name": "Поставка ламп светодиодных",
+      "customer": "2905011820",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0124200000626004872",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "1414056b085f87b08336987d71f088e4",
+      "number": "0815500000526009807",
+      "name": "Ремонт дороги местного значения по ул.Школьная д.Испуханы Красночетайского муниципального округа Чувашской Республики",
+      "customer": "2100003601",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0815500000526009807",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e9f7f66f647779d94e5cd78a01c2cb2c",
+      "number": "0369300181326000005",
+      "name": "Поставка строительных материалов (колеры)",
+      "customer": "7446027348",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0369300181326000005",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "c1d7158617d2293255a4907451db7357",
+      "number": "0361200015026003173",
+      "name": "Поставка расходного материала для анализатора глюкозы и лактата Biosen S-Line",
+      "customer": "6501025568",
+      "date": "15.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0361200015026003173",
+      "keyword": "мониторинг ДТП и ЧС"
+    },
+    {
+      "uid": "e90082a8fd1d4b2106489231ca930369",
+      "number": "0818500006726000036",
+      "name": "Поставка инструментов и расходных материалов",
+      "customer": "2309179043",
+      "date": "14.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0818500006726000036",
+      "keyword": "ЦОДД Краснодарский край"
+    },
+    {
+      "uid": "ded944eeeb8687e0e10cba834ae13f1a",
+      "number": "0351300298626000098",
+      "name": "Выполнение работы по установке остановочных павильонов общественного транспорта",
+      "customer": "5407070339",
+      "date": "14.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000098",
+      "keyword": "ГЦОДД Новосибирск"
+    },
+    {
+      "uid": "50c27921e3a8d5fd3368258739dafd6d",
+      "number": "0331200032726000025",
+      "name": "—",
+      "customer": "3663048147",
+      "date": "14.07.2026",
+      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0331200032726000025",
+      "keyword": "ЦОДД Воронеж"
+    },
+    {
       "uid": "4d87d4e2de15cef500fa8369e7178eba",
       "number": "0851200000626004672",
       "name": "Поставка ламп ультрафиолетовых бактерицидных",
@@ -17747,261 +17999,9 @@
       "date": "13.04.2026",
       "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0373200014226000221",
       "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "2dd01ad57f464241bda0fdd5b36203f1",
-      "number": "0843500000226001825",
-      "name": "Выполнение работ в целях социального обеспечения отдельных категорий граждан Курганской области протезно-ортопедическими изделиями",
-      "customer": "4500013358",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0843500000226001825",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "56a6c1c2a38847db953c863daa81a10e",
-      "number": "0813500000126006514",
-      "name": "зз-0016-10582 - 2026 Спирография (СПГ) с бронхолитической пробой",
-      "customer": "1832019911",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0813500000126006514",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "23714972b2575eda771c7b16ccd9b689",
-      "number": "0322200016326000027",
-      "name": "Поставка медицинских инструментов",
-      "customer": "2721009324",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0322200016326000027",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "855519a552a2e82d899a870ccf30a36e",
-      "number": "0356300049026000035",
-      "name": "УСЛУГИ ДОСТУПА К СИСТЕМЕ ИНТЕРНЕТ В СЕЛЬСКИХ МЕДИЦИНСКИХ ПУНКТАХ для нужд ГБУЗ ПК \"ОХАНСКАЯ ЦРБ\"",
-      "customer": "5946000220",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0356300049026000035",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "d324cbf3c1c41ff77e237f848c6dd252",
-      "number": "0190300010826000261",
-      "name": "Оказание  услуг по определению рыночной стоимости (оценке) объектов оценки.",
-      "customer": "8904013329",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0190300010826000261",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "ca4636255a9afabc5262742c35523037",
-      "number": "0334500002326000007",
-      "name": "Поставка ТСР (кровать трехсекционная)",
-      "customer": "3849094607",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0334500002326000007",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "e14a8854b17be3eaf68243d71471d93c",
-      "number": "0352200026326000113",
-      "name": "Поставка лекарственных препаратов для медицинского применения (Реестровый номер 2026.025705)",
-      "customer": "5504039091",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0352200026326000113",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "b126e159a66624636e175209896658e3",
-      "number": "0387200002426000102",
-      "name": "Поставка медицинских реагентов для анализатора Cobas c 311, имеющегося в наличии у Заказчика для клинико-диагностической лаборатории",
-      "customer": "8603078548",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0387200002426000102",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "090ae06b2de28ca2a28c06bdb5098eeb",
-      "number": "0873500001826005726",
-      "name": "Поставка лекарственного препарата (Адеметионин (ТН: Гептрал)) для обеспечения пациента на основании решения врачебной комиссии (УНЗ: Z2611162 - повторная закупка)",
-      "customer": "7714338609",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0873500001826005726",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "2b022f516b4f0fdbc48434ec12667e99",
-      "number": "0116300005226000020",
-      "name": "Выполнение работ по обустройству и содержанию автозимника районного значения Токко-Бясь-Кюель на 2026-2029 год",
-      "customer": "1421008053",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0116300005226000020",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "6b81819c24571b78e3abd847a92b76b1",
-      "number": "0194200000526002454",
-      "name": "Поставка фармацевтических препаратов, медицинских химических веществ и лекарственных растительных продуктов",
-      "customer": "2020001990",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0194200000526002454",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "e2b15dec973a4553b451b14bc67f5e2e",
-      "number": "0351200005626000135",
-      "name": "Поставка канцелярских товаров: степлер",
-      "customer": "5406011122",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351200005626000135",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "ff037899012ac54d50a8b6c138d405be",
-      "number": "0801200000626000010",
-      "name": "Установка светофорного объекта на км 48+459 автомобильной дороги Кропачево − Месягутово − Ачит в Салаватском районе Республики Башкортостан",
-      "customer": "0274162934",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0801200000626000010",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "409ecf0f3ab618f750a95b96bccd5b6e",
-      "number": "0873500001826005725",
-      "name": "Поставка лекарственного препарата (Моксифлоксацин) для обеспечения граждан, имеющих право на получение государственной социальной помощи в городе Москве (УНЗ: Z2615088 - повторная закупка)",
-      "customer": "7714338609",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0873500001826005725",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "257bfafb0486dd7d56a4b131e9071cb9",
-      "number": "0157200003426000014",
-      "name": "Поставка светильников светодиодных внутреннего освещения",
-      "customer": "6027007117",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0157200003426000014",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "a001cd00265672eaab4433ef5d7bc845",
-      "number": "0342200018926000027",
-      "name": "Оказание образовательных услуг для нужд Государственного бюджетного учреждение здравоохранения «Сызранский наркологический диспансер».",
-      "customer": "6325024710",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0342200018926000027",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "a4ff2823ff000a508dd257f0deb57242",
-      "number": "0302300088826000061",
-      "name": "Поставка диспенсеров и емкостей для отходов для оснащения кабинета ФГДС",
-      "customer": "0309015651",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0302300088826000061",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "b9a8cc920c7f4d080fd7396c6aa29593",
-      "number": "0360200034826000113",
-      "name": "Поставка лекарственного препарата \"ДАЛТЕПАРИН НАТРИЯ\"",
-      "customer": "6455013364",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0360200034826000113",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "9693d164ebb2531d0f8a83b5cac9b739",
-      "number": "0134300063726000025",
-      "name": "Благоустройство территории зоны отдыха по адресу: Иркутская область, Братский район, г. Вихоревка, ул.Дзержинского, (земельный участок с кадастровым номером 38:02:010114:3597) ",
-      "customer": "3823018143",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0134300063726000025",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "a2d9814bf6782b53eb1e62b857d525ba",
-      "number": "0352300003326000091",
-      "name": "Поставка медицинского расходного материала инструменты колющие (I) (Реестровый номер 2026.026860)",
-      "customer": "5501042385",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0352300003326000091",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "04a04c22d4fb8c27d02f6290aa2822d7",
-      "number": "0139200000126004258",
-      "name": "Поставка бумажных полотенец",
-      "customer": "4212007870",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0139200000126004258",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "ec08de0c4341b39543d2ffe4154443a0",
-      "number": "0851200000626002433",
-      "name": "Оказание образовательных услуг по дополнительной профессиональной переподготовке сотрудников по программе «Оператор сосудов, работающих под давлением»",
-      "customer": "5410103658",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626002433",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "a500600b7cf9312643f2706753a4b37d",
-      "number": "0857500000126000139",
-      "name": "Поставка лекарственного препарата для медицинского применения АКАЛАБРУТИНИБ (в целях социального обеспечения граждан)",
-      "customer": "6000003676",
-      "date": "13.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0857500000126000139",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "0a90c448efee73482bd985ce1d34f4fe",
-      "number": "0851200000626002411",
-      "name": "Поставка технических средств автоматической фотовидеофиксации для обеспечения контроля дорожного движения, источников бесперебойного питания для технических средств автоматической фотовидеофиксации",
-      "customer": "5402570056",
-      "date": "10.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0851200000626002411",
-      "keyword": "ГКУ НСО ЦОДД Новосибирск"
-    },
-    {
-      "uid": "e7aab6ad0ada38771c0117daa0089438",
-      "number": "0351300298626000046",
-      "name": "Поставка запасных частей и комплектующих для разметочной машины Шмель 11А",
-      "customer": "5407070339",
-      "date": "10.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0351300298626000046",
-      "keyword": "ГЦОДД Новосибирск"
-    },
-    {
-      "uid": "55e7e2341b6417eba791e2ffbdbad430",
-      "number": "0374200000426000059",
-      "name": "—",
-      "customer": "9204022136",
-      "date": "10.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0374200000426000059",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "41f35c07c7554bc643355bc657a5ee5e",
-      "number": "0366300030726000030",
-      "name": "Поставка инструментов медицинских (ланцеты для ручного прокалывания, одноразового использования и скарификатор неавтоматический, одноразового использования).",
-      "customer": "7114008038",
-      "date": "10.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0366300030726000030",
-      "keyword": "мониторинг ДТП и ЧС"
-    },
-    {
-      "uid": "e07dc93b67660ede5184f0f0a7b34205",
-      "number": "0356500001426003092",
-      "name": "ОТЛОВ ЖИВОТНЫХ БЕЗ ВЛАДЕЛЬЦЕВ, ИХ ТРАНСПОРТИРОВКА, УЧЁТ, В ТОМ ЧИСЛЕ МАРКИРОВАНИЕ, КАРАНТИНИРОВАНИЕ, СТЕРИЛИЗАЦИЯ, СОДЕРЖАНИЕ И ВОЗВРАТ НА ПРЕЖНЕЕ МЕСТО ОБИТАНИЯ",
-      "customer": "5911082529",
-      "date": "10.04.2026",
-      "url": "https://zakupki.gov.ru/epz/order/notice/pricereq/view/common-info.html?regNumber=0356500001426003092",
-      "keyword": "мониторинг ДТП и ЧС"
     }
   ],
-  "updated": "14.07.2026 08:06",
+  "updated": "15.07.2026 08:12",
   "total": 2000,
-  "new_count": 27
+  "new_count": 28
 }
